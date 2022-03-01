@@ -1,0 +1,207 @@
+jis number se abhi call aaya tha call it back	B_Feature/Action I_Feature/Action I_Feature/Action I_Feature/Action I_Feature/Action I_Feature/Action I_Feature/Action o o o
+ek bar zara meri raja se phone pe baat karwa do	o o o o B_Contact_Name o o o o o o
+jaldi se varun ki mobile pe phone lagiyen	o o B_Contact_Name o B_Number_Type I_Number_Type o o
+rajkumar ji ko call karo unke home number pe	B_Contact_Name I_Contact_Name o o o o B_Location I_Location o
+call back karein zara to the last number	o o o o o o B_Feature/Action I_Feature/Action
+ekbar khalid se baat karien	o B_Contact_Name o o o
+jaldi se chandrika ki mobile number milao	o o B_Contact_Name o o o o
+meri mausi ki landline pe dial karo	B_Relation I_Relation o B_Number_Type I_Number_Type o o
+call delhi wali mausi ko unke mobile par	o B_Relation I_Relation I_Relation o o B_Number_Type o
+aurobindo ke office number par call ghumao	B_Contact_Name o B_Location I_Location o o o
+yogi uncle ko turant call lagai jae	B_Contact_Name B_Relation o o o o o
+last received call pe redial karo	o o o o B_Recurrance o
+mausa ji duravas mein baatein karna hain	B_Relation I_Relation o o o o o
+zara call lagaein ammi ko	o o o B_Relation o
+speaker par sampark karein rajni se	B_Call_Type o o o B_Contact_Name o
+please call back to mausa ji	o o o o B_Relation I_Relation
+meri maa ko phone lagao	B_Relation I_Relation o o o
+1800018000 par call lagao sim 2 se	B_Emergency_Number o o o B_Component I_Component o
+nanu ke mobile number par phone lagein	B_Relation o B_Number_Type o o o o
+last dialled number par phir se baat karvayein	B_Feature/Action I_Feature/Action I_Feature/Action I_Feature/Action B_Recurrance I_Recurrance o o
+baat kariye meri papa se right now	o o o B_Relation o o o
+achintya ji ko phone ghumaiye	B_Contact_Name I_Contact_Name o o o
+riddhi ke mobile number pe call karo sim card 2 se	B_Contact_Name o B_Number_Type I_Number_Type o o o B_Component I_Component I_Component o
+call back chachu now	o o B_Relation o
+abhi nitya ki mobile pe call karo	o B_Contact_Name o B_Number_Type I_Number_Type o o
+ekbar aunty ji ko phone karna hain	o B_Relation I_Relation o o o o
+bapu ji ka number dial karein	B_Relation I_Relation o o o o
+nani ko phone ghumao	B_Relation o o o
+call ruchika	o B_Contact_Name
+call lagao umesh ko sim 1 se	o o B_Contact_Name o B_Component I_Component o
+anish k ghar ka number dial ki jiye	B_Contact_Name o B_Location I_Location I_Location o o o
+meri mausi ko call karo	o B_Relation o o o
+parnani ki mobile pe video call kariyen	B_Relation o o o B_Call_Type o o
+kya women's helpline number par phone kar doge?	o B_Emergency_Number I_Emergency_Number I_Emergency_Number o o o o
+bhaiya ko call karo jaldi	B_Relation o o o o
+jaldi se phuphi ki landline wali number pe call karo	o o B_Relation I_Relation B_Number_Type I_Number_Type I_Number_Type I_Number_Type o o
+abhi gudiya ko phone lagao please	o B_Contact_Name o o o o
+promod ke mobile pe ring karo	B_Contact_Name o B_Number_Type I_Number_Type o o
+please dial mama ji	o o B_Relation I_Relation
+jo ye last received number hai dial it again	o o B_Feature/Action I_Feature/Action I_Feature/Action o o o o
+last received number par call karo	B_Feature/Action I_Feature/Action I_Feature/Action o o o
+sakshi ki jaldi se dial karo	B_Contact_Name o o o o o
+phone ghumao mere buddy chintu ko	o o o B_Relation B_Contact_Name o
+last called number par phir se call karo	B_Feature/Action I_Feature/Action I_Feature/Action o B_Recurrance I_Recurrance o o
+last received number par call back karo	B_Feature/Action I_Feature/Action I_Feature/Action I_Feature/Action o o o
+mummy ko phone lagao	B_Relation o o o
+lets see agar abhijeet se baat hoti hai	o o o B_Contact_Name o o o o
+zubin ki mobile number pe call karo	B_Contact_Name o B_Number_Type I_Number_Type I_Number_Type o o
+jaldi se meri baat electrician se karwa do phone pe	o o o o B_Contact_Name o o o o o
+ghar par call karo	B_Location I_Location o o
+jaldi se mausa ji ko call karo	o o B_Relation I_Relation o o o
+just call my father turant please	o o o B_Relation o o
+pranav ki mobile number pe video call karo	B_Contact_Name o B_Number_Type I_Number_Type I_Number_Type B_Call_Type I_Call_Type o
+nati ko telephone lagaein	B_Relation o o o
+ranjan se baat karne k piye phone milao	B_Contact_Name o o o o o o o
+sanjay ka landline mein redial karien	B_Contact_Name o B_Number_Type o B_Recurrance o
+kripya nana ko telephone karo	o B_Relation o o o
+kia upasana ko ek call karenge	o B_Contact_Name o o o o
+call phuphi	o B_Relation
+call back shivani now	o o B_Contact_Name o
+please mere cellphone se mummy ko ek bar call karo	o o o o B_Relation o o o o o
+meri biwi ki mobile mein call karo	B_Relation I_Relation o o o o o
+call shahnaz	o B_Contact_Name
+pranav ko dial karo	B_Contact_Name o o o
+devika ki mobile pe ring back kariyen	B_Contact_Name o B_Number_Type I_Number_Type o o o
+umang ke home number par baat karao	B_Contact_Name o B_Location I_Location o o o
+mera pati ko ring back karo	o o o o o o
+akhiri miss hui call ko wapis se call lagao	B_Feature/Action I_Feature/Action I_Feature/Action I_Feature/Action I_Feature/Action o o o o
+upasana ki ghar mein phone ghumao	B_Contact_Name o o o o o
+zoya ko phone kariyen	B_Contact_Name o o o
+mausa ji sath video call chalu karo	B_Relation I_Relation o B_Call_Type I_Call_Type o o
+ek number dial karo	o o o o
+chirag ka number milao	B_Contact_Name o o o
+jaldi se anish ko phone karo	o o B_Contact_Name o o o
+jaldi se call maa	o o o B_Relation
+call up deepak uske office mein	o o B_Contact_Name o B_Location o
+please mama ji ko dial kijiyen	o B_Relation I_Relation o o o
+baat karvayein angha se phone par	o o B_Contact_Name o o o
+devrani ko call lagao mobile pe	B_Relation o o o B_Number_Type o
+tau ji ko phone kariye ghar wale number pe	B_Relation I_Relation o o o B_Location o o o
+devar ko phone karo	B_Relation o o o
+surya k ghar ka number dial ki jiye	B_Contact_Name o B_Location I_Location I_Location o o o
+devrani ke sathe video call start karien	B_Relation o o o o o o
+daddy ji ko call karna hain	B_Relation I_Relation o o o o
+phone lagao aryan ko uske ghar wale number pe	o o B_Contact_Name o o B_Location I_Location I_Location o
+ekbar daddy ko phone karna hain	o B_Relation o o o o
+ghar ke phone par call kijiye	B_Location I_Location o o o o
+kripaya meri nani ke ghar pe phone lagaiye	o o B_Relation o B_Location o o o
+baat karao zoya se	o o B_Contact_Name o
+pita ji se baat karwa do unke office number par	B_Relation I_Relation o o o o o B_Location o o
+dekhte hain pooja call pick karti hai ya nahi	o o B_Contact_Name o o o o o o
+ghar phone lagana on landline	B_Location o o o B_Number_Type
+call in helpline number jaldi	o o B_Emergency_Number I_Emergency_Number o
+list mein jo last dialled number hai call again	o o o B_Feature/Action I_Feature/Action I_Feature/Action o B_Recurrance I_Recurrance
+abhi bhaiya ki landline mein call karo	o B_Relation o B_Number_Type I_Number_Type o o
+can you please call meri sasu ma?	o o o o o o o
+zara bilal ka number milana jaldi se	o B_Contact_Name o o o o o
+ghar ke landline par dadi se baat karvao	B_Location I_Location B_Number_Type o B_Relation o o o
+call lagao to zara kirane wale uncle ko	o o o o B_Contact_Name I_Contact_Name I_Contact_Name o
+shalini se baat karo abhi ke abhi	B_Contact_Name o o o o o o
+phufaji se baat kara do phone pe	B_Relation o o o o o o
+grocery store ko phone lagake do delivery ki enquiry karni hai	B_Contact_Name I_Contact_Name o o o o o o o o o
+aaj mere best friend abhijeet se baat karte hain	o o B_Relation I_Relation B_Contact_Name o o o o
+phone ghumaayie krishna chachi ke yahan	o o B_Contact_Name B_Relation o o
+please mujhe mere bhai se baat karni hai phone laga do	o o o B_Relation o o o o o o o
+shweta ki office ka number dial karo	B_Contact_Name o B_Location I_Location I_Location o o
+call ashwini bhardwaj ko uske cell pe	o B_Contact_Name I_Contact_Name o o B_Number_Type o
+vinuth ko phone lagiye	B_Contact_Name o o o
+mere dost pinku ko dial karna	B_Relation I_Relation B_Contact_Name o o o
+kia did ko phone karenge please	o o o o o o
+phuphi ko phone lagao	B_Relation o o o
+aunty ki mobile pe call lagiyen	B_Relation o B_Number_Type I_Number_Type o o
+party office mein phone lagaiye	B_Contact_Name I_Contact_Name o o o
+ye jo last number par baat ki hai call back on speaker	o o B_Feature/Action I_Feature/Action I_Feature/Action I_Feature/Action I_Feature/Action I_Feature/Action o o o B_Call_Type
+didi se abhi baat karni home	B_Relation o o o o B_Location
+deepika ko home number par call karo	B_Contact_Name o B_Location I_Location o o o
+last dialled number par phir se baat karao	B_Feature/Action I_Feature/Action I_Feature/Action o B_Recurrance I_Recurrance o o
+ek bar meri mausi ko phone mila do please	o o o B_Relation o o o o o
+mummy ko call lagaein unke landline par	B_Relation o o o o B_Number_Type o
+kia zubin ko ek phone karenge	o B_Contact_Name o o o o
+kripaya brijesh uncle ko call karo using sim 2	o B_Contact_Name B_Relation o o o o B_Component I_Component
+phone ghumao ahalya ke work number par	o o B_Contact_Name o B_Location I_Location o
+kripaya vinay ko telephone karo	o B_Contact_Name o o o
+bua ke ghar phone lagao	B_Relation o B_Location o o
+zubin ko dial karo	B_Contact_Name o o o
+kripaya shivani ki number pe call lagiye	o B_Contact_Name o o o o o
+rajiv uncle ke ghar wale number par phone kijiye	B_Contact_Name B_Relation o B_Location I_Location I_Location o o o
+promod ko phone lagiye	B_Contact_Name o o o
+meri ghar par baat karao on landline	o B_Location o o o o B_Number_Type
+mere phone se papa ka number milao	o o o B_Relation o o o
+mausi ko unke ghar ke phone par call lagayein	B_Relation o o B_Location I_Location o o o o
+kya aap meri saheli sunita se phone pe baat karwa denge?	o o o o B_Contact_Name o o o o o o
+zoya ke sath video call suru karo	B_Contact_Name o o B_Call_Type I_Call_Type o o
+call bhaiya	o B_Relation
+mera pita ji phone karo	B_Relation I_Relation I_Relation o o
+ye jo last dialled number hai use phir se phone lagao	o o o o o o o B_Recurrance I_Recurrance o o
+parvez ka number ghumao	B_Contact_Name o o o
+kya tum mujhe rachna ka mobile number mila ke de sakte ho?	o o o B_Contact_Name o B_Number_Type I_Number_Type o o o o o
+mujhe ghar baat karni hai call please	o B_Location o o o o o
+bhaiya ki landline pe dial karo	B_Relation o B_Number_Type I_Number_Type o o
+ye jo last dialled number hai uspar phir se baat karaein	o o B_Feature/Action I_Feature/Action I_Feature/Action o o B_Recurrance I_Recurrance o o
+mujhe abhilash se baat karni hai	o B_Contact_Name o o o o
+bitiya ko ek video call lagaiye	o o o o o o
+call maa unke ghar wale number par	o B_Relation o B_Location I_Location I_Location o
+jaldi se mama ki mobile pe dial karo	o o B_Relation o B_Number_Type I_Number_Type o o
+please phuphi ko dial karo	o B_Relation o o o
+imraan ki office wali number milao please	B_Contact_Name o B_Location I_Location I_Location o o
+farah ko dial karo	B_Contact_Name o o o
+call riddhi please	o B_Contact_Name o
+ye jo last received number hai uspar wapas se phone karo	o o B_Feature/Action I_Feature/Action I_Feature/Action o o B_Recurrance o o o
+kia vinuth ko dial karoge please	o B_Contact_Name o o o o
+chalo maa ko phone lagate hain	o B_Relation o o o o
+bittu ke papa se mobile phone pe baat karao	B_Contact_Name I_Contact_Name I_Contact_Name o B_Number_Type o o o o
+turant plumber wale ko phone lagao	o B_Contact_Name o o o o
+nanad ji mobile pe phone karo	B_Relation I_Relation B_Number_Type I_Number_Type o o
+jo last called number hai uspe phir baat karao	o B_Feature/Action I_Feature/Action I_Feature/Action o o B_Recurrance o o
+sim card 2 se call angad	B_Component I_Component I_Component o o B_Contact_Name
+zara mahesh ko uske office ke number pe call karo	o B_Contact_Name o o B_Location I_Location I_Location I_Location o o
+please rita aunty ko call laga do	o B_Contact_Name B_Relation o o o o
+kripaya ring back mom	o o o B_Relation
+doctor madhav ji se baat karao on his mobile	B_Honerific B_Contact_Name o o o o o o B_Number_Type
+call devrani	o B_Relation
+phone back mama ji	o o B_Relation I_Relation
+call arjun ka office number	o B_Contact_Name o B_Location I_Location
+jaldi se anupriya se baat karao	o o B_Contact_Name o o o
+please call jijja ji jaldi	o o o o o
+chaliye ghar par baat karte hain call home please	o B_Location o o o o o B_Location o
+phone ghumaiye zara paridhi ko	o o o B_Contact_Name o
+saanvi ki mobile number dial karo	B_Contact_Name o o o o o
+didi ko phone ghumaiye	B_Relation o o o
+sejal se baat karni hai mobile no par	B_Contact_Name o o o o B_Number_Type I_Number_Type o
+kia phuphi ji number mila sakte hain	o B_Relation I_Relation o o o o
+kya tum devki aunty se phone pe meri baat karwa doge?	o o B_Contact_Name B_Relation o o o o o o o
+phir se chacha ji ko ghar pe call lagao	B_Recurrance I_Recurrance B_Relation I_Relation o B_Location I_Location o o
+dial ambulance	o B_Emergency_Number
+please call nanad	o o B_Relation
+mujhe sarita se baat karni hai call lagao	o B_Contact_Name o o o o o o
+call mom	o B_Relation
+tu pehle pitaji ko office ke mobile number par sim 1 se call laga	o o B_Relation o B_Location o B_Number_Type I_Number_Type o B_Component I_Component o o o
+dekhen madhav phone uthayega kya	o B_Contact_Name o o o
+surya ke sath video call set karo	B_Contact_Name o o B_Call_Type I_Call_Type o o
+last call received wale number par phone lagao	B_Feature/Action I_Feature/Action I_Feature/Action I_Feature/Action o o o o
+sim 1 use karke nandid ke work number par phone lagao	B_Component I_Component o o o o B_Location I_Location o o o
+meri bff ko call karo mobile pe	B_Relation I_Relation o o o B_Number_Type o
+meri mama ji ko call karo	o B_Contact_Name I_Contact_Name o o o
+call up pooja	o o B_Contact_Name
+maa ko phone karo	B_Relation o o o
+bhavin ki mobile number milao	B_Contact_Name o B_Number_Type I_Number_Type o
+jennifer ke mobile pe call karo	B_Contact_Name o o o o o
+dusra wale sim se pita ji call karo	B_Call_Type I_Call_Type I_Call_Type I_Call_Type B_Relation I_Relation o o
+mujhe urgently papa se baat karni hai phone lagao	o o B_Relation o o o o o o
+biji ko call lagao turant	B_Relation o o o o
+second sim card se advait ko call lagao	B_Component I_Component I_Component o B_Contact_Name o o o
+jaldi se ramesh ke ghar pe call karo	o o B_Contact_Name o B_Location o o o
+call mama zara	o B_Relation o
+bhatija ko phone ghumao	B_Relation o o o
+mera bhaiya ki mobile mein ring karo	o o o B_Number_Type I_Number_Type o o
+jaldi se saroj hospital ka number milao	o o B_Contact_Name I_Contact_Name o o o
+chal jaldi se ritesh ke ghar phone laga	o o o B_Contact_Name o B_Location o o
+meri baat karwao zara rajesh ke school ke principal se	o o o o o o o o o o
+agra wale phupha ji ko phone ghumaiye	B_Relation I_Relation I_Relation I_Relation o o o
+jijja ji ko call karo	B_Relation I_Relation o o o
+please call amit uske ghar wale number par	o o B_Contact_Name o B_Location I_Location I_Location o
+mausi ke sath telephone mein baat karna hain	B_Relation o o o o o o o
+jaldi se swapan ji ko call karo	o o B_Contact_Name I_Contact_Name o o o
+last dialed number pe ring back karo	B_Feature/Action I_Feature/Action I_Feature/Action I_Feature/Action o o o
+maa ko call karo	B_Relation o o o

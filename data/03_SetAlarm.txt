@@ -1,0 +1,150 @@
+morning five ka alarm set karna	B_Time I_Time o o o o
+chal abhi alarm laga subah 10 baje ka meeting with manager ke naam se	o o o o B_Time I_Time I_Time o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o
+morning walk ke liye clock pe alarm rakho 5 baje ka	B_Catchall_Phrase I_Catchall_Phrase o o o o o o B_Time I_Time o
+har evening ko saade saath ka alarm rakho mahabarath naam pe	B_Recurrance B_Time I_Time I_Time I_Time o o o B_Catchall_Phrase o o
+dedh baje ke alarm rakhna hain kal ka	B_Time I_Time o o o o B_Day o
+gaadi ki service karana hain kal subhe 7 baje ko alarm maaro	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase B_Day B_Time I_Time I_Time o o o
+apne phone pe kal morning 8 baje ka alarm bajna chahiye	o o o B_Day B_Time I_Time I_Time o o o o
+may 1st ko 3 pm ka alarm create karke mujhe phone par flipkart mein order karne ka yaad dilao	B_Date I_Date o B_Time I_Time o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o
+next month ki 2nd ke liye ek alarm laga do please	B_Recurrance B_Month o B_Date o o o o o o o
+ravivaar ko 2 baje lunch date ka alarm lagao	B_Day o B_Time I_Time B_Catchall_Phrase I_Catchall_Phrase o o o
+dada ji ko shaam ko 5 baje uthane ka alarm lagao	o o o o o B_Time I_Time o o o o
+volunteering namak ek alarm lagao har weekend par	B_Catchall_Phrase o o o o B_Recurrance B_Day o
+11 baje ke football match ke liye alarm lagao	B_Time I_Time o B_Catchall_Phrase I_Catchall_Phrase o o o o
+din me 3 bar fruits khane ke liye alarm lagao	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o
+aadhe ghante baad alarm bajao	B_Time I_Time I_Time o o
+kya tum ek alarm set kar sakte ho mere liye sunday subah 10 baje ka	o o o o o o o o o o B_Day B_Time I_Time I_Time o
+every alternate din ka sham ko 8 baje medicine ki alarm lagaye	o o o o B_Time I_Time I_Time I_Time B_Catchall_Phrase o o o
+morning raga alarm set kar do at 6 in the morning	B_Catchall_Phrase I_Catchall_Phrase o o o o o B_Time I_Time I_Time I_Time
+set alarm for 7 pm raath ka khaana time naam se	o o o B_Time I_Time o o o o o o
+tomorrow morning mera sube 5 baje ka meeting hain alarm rako	B_Day o o o o o o B_Catchall_Phrase o o o
+evening walk ke liye alarm create karo 6 bajke 50 minute par	B_Catchall_Phrase I_Catchall_Phrase o o o o o B_Time I_Time I_Time I_Time o
+please ek alarm laga do jaldi se agle din subah 8:30 baje ka pilates	o o o o o o o B_Day I_Day B_Time I_Time I_Time o B_Catchall_Phrase
+dance class ke naam pe har hafte mangalwar moring 8 bajkar 30 minute ka alarm create karo	B_Catchall_Phrase I_Catchall_Phrase o o o B_Recurrance I_Recurrance B_Day o o o o o o o o o
+raat ko medicine lene ka time set karo	B_Time I_Time B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o
+alarm lagao agle hafte monday morning 7 baje ki	o o B_Recurrance I_Recurrance B_Day B_Time I_Time I_Time o
+roz subah 8:30 uthne ka alarm set kia jae	B_Recurrance B_Time I_Time B_Catchall_Phrase I_Catchall_Phrase o o o o
+meri kal flight hai kal subah 5 baje utha dena	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o B_Time I_Time I_Time o o
+kripya dopehar 3 baje ka alarm set kare	o o o o o o o o
+raat ko das baje ka alarm laga do sone ke liye	B_Time I_Time I_Time I_Time o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+naya alarm rakhein har roz evening 6 baje ko aur badminton time naam rakho	o o o B_Recurrance I_Recurrance B_Time I_Time I_Time I_Time o B_Catchall_Phrase I_Catchall_Phrase o o
+trekking karke ek alarm lagao saptahant shuru hote hi	B_Catchall_Phrase o o o o B_Day o o o
+raat ko dawai lene ka alarm lagao roz 9 bje	o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o B_Recurrance o o
+set alarm for 6:00 am	o o o B_Time I_Time
+evening dinner ka alarm lagao shaam saat baje ka	B_Catchall_Phrase I_Catchall_Phrase o o o B_Time I_Time I_Time I_Time
+mummy ko call karna hain everyday at 9 pm alarm laga	o o o o o B_Recurrance o B_Time I_Time o o
+main kal 8 baje school jaunga please alarm laga do ek ghante pehle ka	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o B_Time I_Time I_Time I_Time
+mere liye ek alarm set karo turant for today 6 pm coffee	o o o o o o o o o B_Time I_Time B_Catchall_Phrase
+shaam 7 pm ka alarm rakhle pickup biwi naam se	B_Time I_Time I_Time o o o B_Catchall_Phrase I_Catchall_Phrase o o
+saade das ka playtime ke naam se alarm create karo	B_Time I_Time I_Time B_Catchall_Phrase o o o o o o
+padhai ka alarm lagao har roz bajna chahiye sham ko 7 baje	B_Catchall_Phrase o o o B_Recurrance I_Recurrance o o B_Time I_Time I_Time I_Time
+alarm rakhlo har dopehar 5:15 ko	o o B_Recurrance o o o
+annual function ki meeting aaj shaam 7 baje rakhi hai alarm lagao iske liye	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase B_Day B_Time I_Time I_Time o o o o o o
+kal 4 pm ko movie dekhna hai movie naam se alarm create karein	B_Day B_Time I_Time o B_Catchall_Phrase o o o o o o o o
+kal shaam 4 baje ko alarm bajo	B_Day B_Time I_Time I_Time o o o
+kya tum aaj raat ko 9 baje ka alarm laga sakte ho?	o o B_Day B_Time I_Time I_Time I_Time o o o o o
+breakfast naam se ek alarm set karo roz 10 baje ka	B_Catchall_Phrase o o o o o o B_Recurrance B_Time I_Time o
+morning ka alarm lagao saat baje ka	B_Time o o o B_Time I_Time I_Time
+please kal shaam ka alarm rakho virtual get together ke naam se	o B_Day B_Date o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o
+please ek alarm banayein har friday 8 baje sabji ke name se	o o o o B_Recurrance B_Day B_Time I_Time B_Catchall_Phrase o o o
+sham ko football match ke liye 5 baje ka alarm lagao	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o B_Time I_Time o o o
+please ek alarm lagao zara wake up naam se at 7 am every weekday	o o o o o B_Catchall_Phrase I_Catchall_Phrase o o o B_Time I_Time B_Recurrance B_Day
+subhe sair ka alarm create karo har din	B_Catchall_Phrase I_Catchall_Phrase o o o o B_Recurrance I_Recurrance
+morning ko 6 baje uthna hai alarm laga de	B_Time I_Time I_Time I_Time o o o o o
+ipl match naam pe alarm set keejiye everyday at 2:30 pm	B_Catchall_Phrase I_Catchall_Phrase o o o o o o o B_Time I_Time
+party scene ke naam se alarm set karo evening 7 o clock ka	B_Catchall_Phrase I_Catchall_Phrase o o o o o o B_Time I_Time I_Time I_Time o
+subha 6 baje ki alarm lagao	B_Time I_Time I_Time o o o
+alarm banao har thursday shaam 730 society meeting ke naam ka	o o B_Recurrance B_Day B_Time I_Time B_Catchall_Phrase I_Catchall_Phrase o o o
+kya subah uthne ka alarm lagaya ja sakta hai?	o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o
+raat ko medicine lene ka alarm rakho	B_Time I_Time B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o
+yoga classes naam se ek alarm set karo har din 7:15 par	B_Catchall_Phrase I_Catchall_Phrase o o o o o o B_Recurrance I_Recurrance B_Time o
+har raat ko khane ke baad take medicine naam se alarm laga do	B_Recurrance B_Time I_Time B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o o
+alarm lagao five thirty in the morning	o o B_Time I_Time I_Time I_Time I_Time
+mausi ke saath doctor saab ko milne jaana hain kal 10 baje ko alarm lagao	o o o o o o o o o B_Day B_Time I_Time o o o
+har roz subah 7:30 baje ka alarm set karo	B_Recurrance I_Recurrance B_Time I_Time I_Time o o o o
+mere liye alarm lagao papa's eye test kal evening me 7 baje	o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase B_Day B_Time I_Time I_Time I_Time
+mujhe har shaam 6 baje tv dekhna hai alarm laga do	o B_Recurrance B_Date I_Date I_Date B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o
+exercise karne jane ka alarm lagao sham ko 5 bje ka	B_Catchall_Phrase o o o o o o o o o o
+subha 6 am ko mere ko nind se utha dena	B_Time I_Time I_Time o o o o o o o
+kripya mujhe morning 6 baje ko kal uthana	o o B_Time I_Time I_Time o o o
+subah jaldi uthke padhne baithne ka alarm lagao 4 baje	o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o
+subah 6 baje ka alarm set karo	B_Time I_Time I_Time o o o o
+kal morning 8 baje ka alarm lagao naam rakho important	B_Day B_Time I_Time I_Time o o o o o B_Catchall_Phrase
+cinema time ke title pe ek alarm banao agle sunday 7 pm ka	B_Catchall_Phrase I_Catchall_Phrase o o o o o o B_Recurrance B_Day B_Time I_Time o
+kripaya roj subha 5 baje ki alarm lagaiye	o B_Recurrance B_Time I_Time I_Time I_Time o o
+is mahine 30 tareekh ko subhe 5 baje ka alarm set karo	B_Month I_Month B_Date I_Date I_Date B_Time I_Time I_Time o o o o
+subah aath baje ka alarm set karein	B_Time I_Time I_Time o o o o
+mujhe ek alarm set karke do dopahar ke dhai baje ka	o o o o o o B_Time I_Time I_Time I_Time o
+hafte ke saare dinon ke liye morning alarm create karo	B_Day I_Day I_Day I_Day I_Day I_Day B_Time o o o
+mujhe alarm chahiye har din afternoon mein take medicine naam se	o o o B_Recurrance I_Recurrance B_Date o B_Catchall_Phrase I_Catchall_Phrase o o
+roz subah 7 baje school jane ka alarm lagao	B_Recurrance B_Time I_Time I_Time B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o
+sai baba serial ke naam se ek alarm set kar do har guruvaar raat 8 baje	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o o o o o B_Recurrance o B_Time I_Time I_Time
+mere liye jaldi ek alarm set karo to drink spearmint tea in the morning at 6:30 everyday	o o o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o B_Time B_Recurrance
+evening walk par jaane ka alarm set karo	B_Catchall_Phrase I_Catchall_Phrase o o o o o o
+har morning 5 bajkar 30 minute ka alarm laga de 5 minute 3 bar snooze pe	B_Recurrance B_Time I_Time I_Time I_Time I_Time o o o o o o o o o o
+mujhe har morning sade paanch baje uthna hai alaram laga de	o B_Recurrance B_Time I_Time I_Time I_Time o o o o o
+ek alarm banaiye jo mujhe har subah walking ke liye utha de	o o o o o B_Recurrance B_Date B_Catchall_Phrase o o o o
+har ghante ka alarm lagao pani peene ke liye	B_Recurrance B_Time o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+kripaya ek alarm lagao pani peene ka har ghante	o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase B_Time I_Time
+har din 6 bajke 15 minute mein mujhe neend se uthao	B_Recurrance I_Recurrance B_Time I_Time I_Time I_Time o o o o o
+mujhe subah utha dena kal 7 baje	o o o o B_Day o o
+kal suba 10 ko tatkal check karna hain 15 minute pehle alarm bajana	B_Day o o o o o o o B_Time I_Time I_Time o o
+drink juice naam se alarm laga do har alternate day pe 8 am ka	B_Catchall_Phrase I_Catchall_Phrase o o o o o B_Recurrance B_Day I_Day o B_Time I_Time o
+fatafat ek alarm lagao please har roz subah 5 baje ka jaap naame se	o o o o o B_Recurrance I_Recurrance B_Day I_Day I_Day o B_Catchall_Phrase o o
+alarm banao parso subha ka	o o B_Day o o
+meri meeting hai kal dopahar ko alarm lagao	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase B_Day B_Time o o o
+doctor appointment ke naam wala alarm set kijiye evening 7 o clock ka	B_Catchall_Phrase I_Catchall_Phrase o o o o o o B_Time I_Time I_Time I_Time I_Time
+alarm set kar turant har roz subah 7 baje ka	o o o o B_Recurrance I_Recurrance B_Time I_Time I_Time I_Time
+ek alarm lagao agle hafte subah 8 baje parent teacher meeting ka	o o o B_Day I_Day B_Time I_Time I_Time B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o
+chintu ko dawai dene ka alarm set karo har 4 ghante ke antar antar	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o B_Time I_Time I_Time I_Time I_Time I_Time
+alarm raat barah baje ke liye	o B_Time I_Time I_Time o o
+morning seven ka alarm set kariye	B_Time I_Time o o o o
+kal morning 8 baje alarm bajana	B_Day B_Date I_Date I_Date o o
+kripaya ek alarm laga dijiye kal subah 9 baje ka for school	o o o o o B_Day B_Time I_Time I_Time o o B_Catchall_Phrase
+baba ko phone karna hain kal 7 am alarm bajao us time pe	o o o o o B_Day B_Time I_Time o o o o o
+mummy ko dance class ke liye subah 10 baje jana hai alarm lagao	o o o o o o o o o o o o o
+kya ek alarm lagaya ja sakta hai test tomorrow ke naam se kal subah 9  baje ka	o o o o o o o B_Catchall_Phrase I_Catchall_Phrase o o o B_Day o o o o
+kal 7 pm alarm ki vyavastha karo	B_Day o o o o o o
+biryani pakani hai kal subah uthte hi alarm lagao	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase B_Day B_Time o o o o
+kripya alarm banayein	o o o
+alarm lagao aaj dopahar ke 3 baje ka for blood test	o o B_Day o o o o o o B_Catchall_Phrase I_Catchall_Phrase
+har raat ko khane ke baad take medicine named alarm laga do	B_Recurrance B_Time I_Time B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o
+alarm set karo jogging ke liye 5:30 baje every morning	o o o B_Catchall_Phrase o o B_Time I_Time o o
+7 pm ko alarm lagao walking dog ke naam se	B_Time I_Time o o o B_Catchall_Phrase I_Catchall_Phrase o o o
+mujhe ek alarm set karna tha next monday 2 pm ke liye	o o o o o o B_Recurrance B_Day B_Time I_Time o o
+kripaya set an alarm	o o o o
+sham ko 5 baje ki alarm lagao	B_Time I_Time I_Time I_Time o o o
+repeat alarm lagao monday to sunday subah 10 baje ka yoga ke naam se	B_Recurrance o o B_Day I_Day I_Day B_Time I_Time I_Time o B_Catchall_Phrase o o o
+dawai ke naam se ek alarm banayiye har din 8 am par	B_Catchall_Phrase o o o o o o B_Recurrance I_Recurrance o o o
+weekend ka alag se alarm uthne ka at 9 am	B_Day o o o o o o o B_Time I_Time
+alarm bajao 3 ghante baad aur check water level naam rakhein	o o B_Time I_Time I_Time o B_Time I_Time I_Time o o
+alarm lagana six thirty early morning	o o B_Time I_Time I_Time I_Time
+shaam 6:30 ka bus pakadna hain 6 baje ko alarm lagao	o o o o o o o o o o o
+har mahine ki 1 tareekh ko dopahar 3 baje citi bank mail check karne ka alarm lagao	B_Recurrance B_Month o B_Date I_Date o B_Time I_Time I_Time B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o
+aane wale sunday ke liye ek alaram rakh do drawing class ke naam se	B_Day I_Day I_Day o o o o o o B_Catchall_Phrase I_Catchall_Phrase o o o
+please kal 7 am ko alarm bajana	o B_Day B_Time I_Time o o o
+mujhe alarm set karke do lunch at hyatt naam se	o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o
+evening 7 ka alarm maaro	B_Time I_Time o o o
+alarm bajana dopehar 4 baje ko	o o B_Time I_Time I_Time o
+subha jogging ke liye 7 baje ka alarm lagaiye	o o o o B_Time I_Time o o o
+mujhe morning mein 6 baje uthna hai alarm lagao	o B_Time I_Time I_Time I_Time o o o o
+set alarm meri shaam ki meeting ke naam se	o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o
+har roz subah 7:30 baje ka alarm set kariye	B_Recurrance I_Recurrance B_Time I_Time I_Time o o o o
+saptahant ke liye alarm rakho named trekking	B_Day o o o o o B_Catchall_Phrase
+zara alarm set karo kal subah 4:45 ka puja ke liye	o o o o B_Day B_Time I_Time o B_Catchall_Phrase o o
+next monday ka alarm rakho 2 baje for math tuitions	B_Recurrance B_Day o o o B_Time I_Time o o o
+agle mahine ki 2 tareekh ki subah 7  baje ka alarm lagao for computer classes	B_Recurrance B_Month o B_Date I_Date o B_Time I_Time I_Time o o o o B_Catchall_Phrase I_Catchall_Phrase
+har roz 7 baje ko uthna hai mujhe kal se swimming class jaana hain	B_Recurrance I_Recurrance B_Time I_Time o o o o o o B_Catchall_Phrase I_Catchall_Phrase o o
+ek alarm set karke do mujhe	o o o o o o
+raat ke do baje ka alarm set karo for dialysis	B_Time I_Time I_Time I_Time o o o o o B_Catchall_Phrase
+beti ko school se lana hain every day at 11:00 am create an alarm aur naam school time lagade	o o o o o o B_Recurrance I_Recurrance o B_Time I_Time o o o o o o o o
+agle din ke liye subah 5 baje ka alarm lagao padhai ke naam se	B_Day I_Day I_Day I_Day B_Time I_Time I_Time o o o B_Catchall_Phrase o o o
+kya ek alarm laga ke doge for morning walk at 5 am everyday	o o o o o o o B_Catchall_Phrase I_Catchall_Phrase o B_Time I_Time B_Recurrance
+roj subha 5 baje ki alarm set kijiye	B_Recurrance B_Time I_Time I_Time o o o o
+mujhe har morning sade paanch baje uthna hai alaram laga de	o B_Recurrance B_Time I_Time I_Time I_Time o o o o o
+kripaya har rabibar ko 9 baje badminton ki alarm lagaye	o B_Recurrance B_Day o o o B_Catchall_Phrase o o o
+parson raat 11 baje ka alarm set karein baiyya ka janmadin title rakh ke	B_Day B_Time I_Time I_Time o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o
+agle mahine 5th ko shaam 3 pm ka alarm set karo doctor appointment ke naam se	B_Month I_Month B_Date I_Date B_Time I_Time I_Time o o o o B_Catchall_Phrase I_Catchall_Phrase o o o
+kripaya ek alarm set kijiye amma ji ki dawai ke naam se kal dopahar 3 baje ka	o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o B_Time I_Time I_Time o
+har monday ki 7 am yoga class ki alarm set kare	B_Recurrance B_Day o B_Time I_Time B_Catchall_Phrase I_Catchall_Phrase o o o o
+please monday morning ka alarm laga ke do at 5 named as zumba	o B_Day o o o o o o o o o o B_Catchall_Phrase

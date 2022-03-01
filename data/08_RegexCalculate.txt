@@ -1,0 +1,95 @@
+tan ninty ka parinaam kya hai	B_Feature/Action B_Catchall_Phrase o o o o
+nau dashmlav paanch minus unchalis dashmlav teen	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase B_Feature/Action B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+calculate karo zara chalis guna chalis kina hota hai	o o o B_Catchall_Phrase B_Feature/Action o o o o
+square root of fifteen hundred kya hota hai	B_Feature/Action I_Feature/Action o B_Catchall_Phrase I_Catchall_Phrase o o o
+do hazaar paanch soh thees ka eighty percent value kya hai	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o B_Catchall_Phrase B_Feature/Action o o o
+please divide 23345 by 231	o B_Feature/Action B_Catchall_Phrase o B_Catchall_Phrase
+paanch so ko teen se vibhajan karne ka parinaam kya hota hein	B_Catchall_Phrase I_Catchall_Phrase o B_Catchall_Phrase o B_Feature/Action o o o o o o
+one plus one calculate karo	B_Catchall_Phrase B_Feature/Action o o o
+one by twenty four ka log value kya hai	B_Catchall_Phrase B_Feature/Action B_Catchall_Phrase I_Catchall_Phrase o B_Feature/Action I_Feature/Action o o
+teen rupay plus teen rupay kitne hue	B_Catchall_Phrase I_Catchall_Phrase B_Feature/Action o o o o
+cube root of 64 calculate karte bata do	B_Feature/Action I_Feature/Action o B_Catchall_Phrase o o o o
+sine ninety and cos ninety ka sum kya hota hai	B_Feature/Action B_Catchall_Phrase o B_Feature/Action o o o o o o
+calculate karo five to the power of six kitna hota hai?	o o B_Catchall_Phrase B_Feature/Action I_Feature/Action I_Feature/Action I_Feature/Action B_Catchall_Phrase o o o
+1546 ko 12 duwara divide karke answer dijiye	B_Catchall_Phrase o B_Catchall_Phrase B_Feature/Action I_Feature/Action o o o
+thirty thousand se fifteen ko multiply kiya to kya aaya?	B_Catchall_Phrase I_Catchall_Phrase o B_Catchall_Phrase o B_Feature/Action o o o o
+calculate arke batao 57 ko 10 se divide karne pe kya result ata hai?	o o o B_Catchall_Phrase o B_Catchall_Phrase o B_Feature/Action o o o o o o
+two to the power of ten kya hota hai	B_Catchall_Phrase B_Feature/Action I_Feature/Action I_Feature/Action I_Feature/Action B_Catchall_Phrase o o o
+das mein das pratishat daal kar badhao	B_Catchall_Phrase o o B_Feature/Action I_Feature/Action I_Feature/Action I_Feature/Action
+eight to the power of four karein to kya hota hai?	B_Catchall_Phrase B_Feature/Action I_Feature/Action I_Feature/Action I_Feature/Action B_Catchall_Phrase o o o o o
+sau ko char mein vibhajit karke ek vibhajan ka value kya hoga	B_Catchall_Phrase o B_Catchall_Phrase o B_Feature/Action o B_Catchall_Phrase B_Feature/Action o o o o
+pi ka value kya hein	B_Catchall_Phrase o B_Feature/Action o o
+gyarah hazaar paanch sau ka pandrah pratishat kitna hai	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o B_Catchall_Phrase o o o
+50 me se 12 ghata do to kya bachega?	B_Catchall_Phrase o o B_Catchall_Phrase B_Feature/Action o o o o
+calculate karke batao sau bata sau kitne hue	o o o B_Catchall_Phrase B_Feature/Action o o o
+pi ka kya value hota hai batao	B_Catchall_Phrase o o B_Feature/Action o o o
+do sau chabbis  ka log value calculate karo	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o B_Feature/Action I_Feature/Action o o
+calculator mein 27 divided by 9 karo to kya aata hai?	o o B_Catchall_Phrase B_Feature/Action o B_Catchall_Phrase o o o o o
+calculator use karke thirteen power of eight ka value patha karte hain	o o o B_Catchall_Phrase B_Feature/Action I_Feature/Action B_Catchall_Phrase o o o o o
+agar 467 ko 58 se vibhajit kare to kya result ata hai	o B_Catchall_Phrase o B_Catchall_Phrase o B_Feature/Action o o o o o o
+mujhe ye batao 45 ko 3 se vibhajit karne pe kitna ata hai?	o o o B_Catchall_Phrase o B_Catchall_Phrase o B_Feature/Action o o o o o
+25 into 4 divided by 3 ka result calculate karo	B_Catchall_Phrase B_Feature/Action B_Catchall_Phrase B_Feature/Action o B_Catchall_Phrase o o o o
+seventy five ko twenty three hundred se multiply karne ke baad result kya hoga	B_Catchall_Phrase I_Catchall_Phrase o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o B_Feature/Action o o o o o o
+five hundred ko twenty five thousand se multiply karne se result kya milega	B_Catchall_Phrase I_Catchall_Phrase o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o B_Feature/Action o o o o o
+10 dashamlav 7 ko 12 dashamlav 8 se guna karo	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o B_Feature/Action o
+two twenty nine divided by twelve ka result kya hai	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase B_Feature/Action o B_Catchall_Phrase o o o o
+calculate karo aur batao ki 459 me se 50 minus kiye to kitna hua	o o o o o B_Catchall_Phrase o o B_Catchall_Phrase B_Feature/Action o o o o
+300 ko 15 duwara divide kijiye	B_Catchall_Phrase o B_Catchall_Phrase B_Feature/Action I_Feature/Action o
+331 ko 23 se multiply karke dikhao	B_Catchall_Phrase o B_Catchall_Phrase o B_Feature/Action o o
+fourty percent of eight hundred ka value batado	B_Catchall_Phrase B_Feature/Action o B_Catchall_Phrase I_Catchall_Phrase o o o
+pachaas hazaar ka barah pratishat kya hota hai	B_Catchall_Phrase I_Catchall_Phrase o B_Catchall_Phrase B_Feature/Action o o o
+390 mein 100 add karo zara	B_Catchall_Phrase o o B_Feature/Action o o
+ek so se ekkis minus kiya to parinaam prakat karo	B_Catchall_Phrase I_Catchall_Phrase o B_Catchall_Phrase B_Feature/Action o o o o o
+1134 ko 1600 se ghata diya to kya bacha?	B_Catchall_Phrase o B_Catchall_Phrase o B_Feature/Action o o o o
+12 bar 8 ko jama karenge to kya aayega?	B_Catchall_Phrase B_Feature/Action B_Catchall_Phrase o B_Feature/Action o o o o
+12 dashmlav 9 multiplied by 69 dashmlav 7	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase B_Feature/Action o o o o
+379 plus 481 calculate karke results show karo	B_Catchall_Phrase B_Feature/Action B_Catchall_Phrase o o o o o
+square of 23 calculate karte bata do	B_Feature/Action o B_Catchall_Phrase o o o o
+barah hazaar teen sau ka bees pratishat kitna hota hai?	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o B_Catchall_Phrase B_Feature/Action o o o
+65 ko 10% se kam karo	B_Catchall_Phrase o o o o o
+200 mein se 100 minus karo	B_Catchall_Phrase o o B_Catchall_Phrase B_Feature/Action o
+ek plus ek ka parinaam kya hota hai	B_Catchall_Phrase B_Feature/Action o o o o o o
+please add 3490 with 6744	o B_Feature/Action B_Catchall_Phrase o B_Catchall_Phrase
+calculator launch karke saath sau nabbe aur char so ka addition calculate karo	o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o B_Catchall_Phrase I_Catchall_Phrase o B_Feature/Action o o
+hisaab karo teen plus ek divided by do minus ek	o o B_Catchall_Phrase B_Feature/Action B_Catchall_Phrase B_Feature/Action o B_Catchall_Phrase B_Feature/Action o
+zero point sixty two ka logarithm calculate karo	o o o o o B_Feature/Action o o
+45 ko 36 ke sath guna kijiye	B_Catchall_Phrase o B_Catchall_Phrase o o B_Feature/Action o
+kripaya 2456 se 231 ki subtract kijiye	o B_Catchall_Phrase o B_Catchall_Phrase o B_Feature/Action o
+calculate karo 376 into 247	o o B_Catchall_Phrase B_Feature/Action B_Catchall_Phrase
+multiply 12 with 3449	B_Feature/Action B_Catchall_Phrase o B_Catchall_Phrase
+calculator mein 5 into 25 ka pata karo	o o B_Catchall_Phrase B_Feature/Action B_Catchall_Phrase o o o
+21000 se 5000 ko ghataya to kitna reh gaya?	B_Catchall_Phrase o B_Catchall_Phrase o B_Feature/Action o o o o
+pi ka kya mulya hai	B_Catchall_Phrase o o B_Feature/Action o
+225 ka square root calculate karke batao	B_Catchall_Phrase o B_Feature/Action I_Feature/Action o o o
+800 ko 11 se vibhajit karein to result kya hota hai	B_Catchall_Phrase o B_Catchall_Phrase o B_Feature/Action o o o o o o
+calculate and tell me 296 plus 34 kitna hua?	o o o o B_Catchall_Phrase B_Feature/Action B_Catchall_Phrase o o
+hazaar meter divided by 2 kitna hua?	B_Catchall_Phrase I_Catchall_Phrase B_Feature/Action o B_Catchall_Phrase o o
+calculator mein sine of ninety degrees kya hai	o o B_Feature/Action o B_Catchall_Phrase B_Feature/Action o o
+hundred plus sixty minus twenty five ka parinaam kya hai	B_Catchall_Phrase B_Feature/Action B_Catchall_Phrase B_Feature/Action B_Catchall_Phrase I_Catchall_Phrase o o o o
+367 divided by 16 ka result kya hai?	B_Catchall_Phrase B_Feature/Action o B_Catchall_Phrase o o o o
+bees hazaar se nau hazaar ko kam kiya tho kya parinaam aayega	B_Catchall_Phrase I_Catchall_Phrase o B_Catchall_Phrase I_Catchall_Phrase o B_Feature/Action o o o o o
+paanch dashmlav chaar multiplied by das ka kya result milega	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase B_Feature/Action o B_Catchall_Phrase o o o o
+63 multiplied by fifty five thousand ka kya parinaam aayega?	B_Catchall_Phrase B_Feature/Action o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o
+calculate karke batayiye ki pie ki value kya ho sakti hai?	o o o o o o B_Feature/Action o o o o
+two to the power of nineteen calculate karo	B_Catchall_Phrase B_Feature/Action I_Feature/Action I_Feature/Action I_Feature/Action B_Catchall_Phrase o o
+can you please multiply 9878 with 334	o o o B_Feature/Action B_Catchall_Phrase o B_Catchall_Phrase
+ek chauthai guna solah chauthai calculate kariye	B_Catchall_Phrase I_Catchall_Phrase B_Feature/Action B_Catchall_Phrase I_Catchall_Phrase o o
+calculator se patha karlo ki hazaar se pandran ko multiply kiya to parinaam kya hoga	o o o o o B_Catchall_Phrase o o o B_Feature/Action o o o o o
+gyarah hazaar ko barah mahineih se multiply karo	B_Catchall_Phrase I_Catchall_Phrase o B_Catchall_Phrase I_Catchall_Phrase o B_Feature/Action o
+ninety five se twenty two minus kare six se divide karo	B_Catchall_Phrase I_Catchall_Phrase o B_Catchall_Phrase I_Catchall_Phrase B_Feature/Action o B_Catchall_Phrase o B_Feature/Action o
+500 ko 39 se multiply karne se result kya aayega?	B_Catchall_Phrase o B_Catchall_Phrase o B_Feature/Action o o o o o
+do hazaar saat soh chalis ka thirty percent kya aata hai?	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o B_Catchall_Phrase B_Feature/Action o o o
+103 ko agar 2 se divide kia to kitna hua?	B_Catchall_Phrase o o B_Catchall_Phrase o B_Feature/Action o o o o
+choubis hazaar ka 60 pratishat kya hota hai?	o o o B_Catchall_Phrase B_Feature/Action o o o
+saat sau ko do se divide ka de parinaam kya hota hein?	B_Catchall_Phrase I_Catchall_Phrase o B_Catchall_Phrase o B_Feature/Action o o o o o o
+783 ka square root calculate karo	B_Catchall_Phrase o B_Feature/Action I_Feature/Action o o
+55 multiplied by 30 kitna hota hai	B_Catchall_Phrase B_Feature/Action o B_Catchall_Phrase o o o
+assi lakh gyarah hazaar ko barah mahineih se divide karo	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o B_Catchall_Phrase I_Catchall_Phrase o B_Feature/Action o
+256 ka log value calculate karo	B_Catchall_Phrase o B_Feature/Action I_Feature/Action o o
+ek karod pachpan lakh ka aat percent interest kya hota hein	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o B_Catchall_Phrase B_Feature/Action o o o o
+57 ko 83 se add karke result ko 12 se multiply karo	B_Catchall_Phrase o B_Catchall_Phrase o B_Feature/Action o o o B_Catchall_Phrase o B_Feature/Action o
+zara 12 bate 6 ki value batao	o B_Catchall_Phrase B_Feature/Action B_Catchall_Phrase o o o
+please 225 ko 25 se divide karo	o B_Catchall_Phrase o B_Catchall_Phrase o B_Feature/Action o
+pi se fifteen ko multiply kiya tho parinaam kya ho sakta hai	B_Catchall_Phrase o B_Catchall_Phrase o B_Feature/Action o o o o o o o
+calculator se pata karo 123 aur 18 ko multiply kiya to parinaam kya hoga?	o o o o B_Catchall_Phrase o B_Catchall_Phrase o B_Feature/Action o o o o o
+calculator use karo aur batao ki  46 into 56 kitna hota hai?	o o o o o o B_Catchall_Phrase B_Feature/Action B_Catchall_Phrase o o o

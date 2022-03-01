@@ -1,0 +1,174 @@
+when i get to phoenix mall yaad dilayein ki make up kharidna hai	o o o o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+reminder lagao fatafat for a workshop session at 2 pm	o o o o o B_Catchall_Phrase I_Catchall_Phrase o B_Time I_Time
+adhe ghante mein workout ke liye yaad karana	B_Time I_Time o B_Catchall_Phrase o o o o
+agle mahine ki teis ko yoga workshop ka reminder set karo	B_Month I_Month o B_Date o B_Catchall_Phrase I_Catchall_Phrase o o o o
+pitaji ka janamdin naam se ek reminder save kariye kal subah 8 baje ka	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o o o B_Day B_Time I_Time I_Time o
+morning 10 am yaad dilayein ki boss ko message karna hai	B_Time I_Time I_Time o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+har saal on 26th july puja ka birthday hai yaad karana	B_Recurrance I_Recurrance o B_Date I_Date B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o
+kal shaam 7 baje ke liya family dinner naam ka ek alert banayein	B_Date B_Time I_Time I_Time o o B_Catchall_Phrase I_Catchall_Phrase o o o o o
+14 december sade paanch baje ka reminder set karein naam dein maa ka janamdin	B_Date I_Date B_Time I_Time I_Time o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+mujhe ek reminder lagana hai kal shaam ko 8 baje rinki ki birthday party me jana hai	o o o o o B_Day B_Time I_Time I_Time I_Time o o o o o o o
+sitafal laane ka ek reminder kal shaam ke liye save karo	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o B_Date B_Time o o o o
+mujhe satark karna wednesday meeting ke liye	o o o B_Day B_Catchall_Phrase o o
+kal yaad dilana shaam ko baccho ko park leke jana hai	B_Day o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+chaliye conference call reminder dekhte hain	o B_Catchall_Phrase I_Catchall_Phrase o o o
+daftar pahunchne se pehle petrol dalvane ke liye alert karein	o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o
+august mahine ki 17 ko remind karvana pranav ka birthday hai	B_Month I_Month o B_Time o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+satran november ko yaad dilao ki dentist appointment hai	B_Date I_Date o o o o o o o
+ek reminder banao to help me take my medicines	o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+kya tum ek reminder set karke de sakte ho please?	o o o o o o o o o o
+please set a reminder for me na to get rajma chawal from chandi chawk dhaba	o o o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+ek reminder laga ke do kal anjali ki train hai 5 baje	o o o o o B_Day B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase B_Time I_Time
+aaj raat 8 baje ko the sky is pink movie ke liye ek reminder laga do	B_Time I_Time I_Time I_Time o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o
+mere liye ek reminder set karo at 4 pm tomorrow to buy the ring	o o o o o o o B_Time I_Time B_Day o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+diapers order karna yaad dilayein	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o
+shopping jaane ka reminder chahiye	B_Catchall_Phrase I_Catchall_Phrase o o o
+aaj shaam ko yaad dilana ki kal its exhibition day	B_Time I_Time o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+10 baje daily essentials laana yaad dilayein	B_Time I_Time B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o
+alarm system ko band karne ka reminder lagao when i leave for office	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o o o o
+new dishwasher install karne ka reminder saturday reminders mein daal do	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o o o
+khana khana yaad dilana	B_Catchall_Phrase I_Catchall_Phrase o o
+agle hafte 10 tarikh college jam session ke baare mein yaad kara dena	B_Day I_Day B_Date I_Date B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o o o
+bhool mat jana tennis at nine	o o o B_Catchall_Phrase o B_Time
+kal mujhe remind karvana	o o o o
+just remind me 2 november ko uthne ke baad excersice karni hai	o o o B_Date I_Date o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+subah uthte hi morning walk ke bare me yaad karvana	B_Time o o B_Catchall_Phrase I_Catchall_Phrase o o o o o
+subah aur shaam take medicine mujhe yaad karvana	B_Time I_Time I_Time B_Catchall_Phrase I_Catchall_Phrase o o o
+agle hafte mushayara hai reminder set karo	B_Day I_Day B_Catchall_Phrase o o o o
+mujhe yaad karane ke liye reminder create kariye	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o
+dinner time par yaad karvao give surprise	B_Time I_Time o o o B_Catchall_Phrase I_Catchall_Phrase
+har saal on november second roopa ka birthday aata hai yaad se mujhe remind karaana	B_Recurrance I_Recurrance o B_Date I_Date B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o o o o
+tiger ko walk pe le jaane ka ek reminder set karo 6 pm ka	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o B_Time I_Time o
+laptop service naam se reminder banao	B_Catchall_Phrase I_Catchall_Phrase o o o o
+mujhe yaad karvana this friday at 8 pm puja's housewarming party	o o o o B_Day o B_Time I_Time B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+2:15 par ek reminder set karna	B_Time o o o o o
+call sis naam se ek reminder banayein	B_Catchall_Phrase I_Catchall_Phrase o o o o o
+reminder banayein har hafte wednesday ke liye sustana zarori hai	o o B_Recurrance I_Recurrance B_Day o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+ek new reminder lagayein ravivar raat ko india's got talent show ke liye	o o o o B_Day B_Time o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o
+just remind me uthte hi excersice karni hai	o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+angad ki saalgirah monday ko hai remind karana	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase B_Day o o o o
+mere liye ek reminder set kia jae to buy groceries from the departmental store at 2 pm	o o o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o B_Time I_Time
+reminder banao	o o
+agle mahine ki das ko dance program ke baare mein yaad karvaiyega	B_Month I_Month o B_Date o B_Catchall_Phrase I_Catchall_Phrase o o o o o
+aj ke liye set reminder please to make cookies for rahul	B_Day o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+set a reminder at 10 am tomorrow morning interview pe jana hai	o o o o o o B_Day o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+ek reminder lagana zara	o o o o
+go to library naam se har sunday ko subah mein remind karana	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o B_Recurrance B_Day o B_Time o o o
+8:15 par yaad dilayega mujhe apni watch ko charging pe lagana hai	B_Time o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+meera ki dentist appointment hai 16 october ki yaad rakhna	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase B_Time I_Time o o o
+mere liye reminder lagaiye kal subah uth kar trash can khali karna hai	o o o o B_Day B_Time o o o o o o o
+remind karvao har weekend ko to practice badminton	o o B_Recurrance B_Day o o B_Catchall_Phrase I_Catchall_Phrase
+mujhe ek reminder rakhna hai	o o o o o
+aaj ke liye drums practice namak reminder create kariye jo five minutes to five par baje	B_Day o o B_Catchall_Phrase I_Catchall_Phrase o o o o o B_Time I_Time I_Time I_Time o o
+ek reminder banao	o o o
+mere phone par reminder set karo padhne ka	o o o o o o B_Catchall_Phrase I_Catchall_Phrase
+mujhe ek reminder laga ke do zara for tea break at 5 pm tomorrow	o o o o o o o o B_Catchall_Phrase I_Catchall_Phrase o B_Time I_Time B_Day
+5 pm evening remind karana online shopping ke liye	B_Time I_Time I_Time o o B_Catchall_Phrase I_Catchall_Phrase o o
+27 july ko raat 10:20 par aane wale tv program ke liye 10 minute pehle reminder create karo	B_Date I_Date o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase B_Time I_Time I_Time o o o
+can you please set a reminder ki kites kharidni hai	o o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+mujhe yaad rakhna hai mausa ji ko call karna ek reminder save karo	o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o
+ravivaar ko dopahar 1 baje church jaane ka ek weekly reminder chahiye	B_Day o B_Date I_Date I_Date B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o B_Recurrance o o
+mera reminder abi set karo ki raat ko sir pe tel lagana hai	o o o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+kya tum reminders create kar sakte ho mere liye	o o o o o o o o o
+please remind me 12th november ko uthne ke baad room clean karna hai	o o o B_Date I_Date o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+paudhon ko paani dene ka reminder banaiye	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o
+december mein 23rd ka reminder laga do start chritmas cooking	B_Month o B_Time o o o o o B_Catchall_Phrase I_Catchall_Phrase
+mujhe ek naya reminder banana hai	o o o o o o
+reminders mein ja kar ek new shopping list banao	o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o
+mujhe har din ser par jaane ko remind karvao	o B_Recurrance I_Recurrance B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o
+jaldi se ek reminder lagayiye envelope kharidna hai kal hi	o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase B_Day o
+please remind me at 12 noon tomorrow ki sasuma ke liye saree kharidni hai	o o o o B_Time I_Time B_Day o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+sirf ek baar ke liye ye reminder banao navpreet ko uske birthday par call karne ke liye	o o o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+meri important meeting ka kal subah mein reminder laga do	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o B_Day B_Time o o o o
+mere liye ek reminder banaiye	o o o o o
+ghar se nikalne se pehle do puja naam ka ek reminder bana do	o o o o o B_Catchall_Phrase I_Catchall_Phrase o o o o o o
+aj ek reminder ste kijiye raat ko 11 baje ka bedtime ke naam se	B_Day o o o o B_Time I_Time I_Time I_Time o B_Catchall_Phrase o o o
+mujhe kal market se doodh lekar ane ke liye yaad dilana	o B_Day B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o
+gopal sweets par pahunchte hi yaad dilana to buy rasgulla	o o o o o o o o B_Catchall_Phrase I_Catchall_Phrase
+har varsh 26 july ko deshpande ka janam din hai remind karvana	B_Recurrance I_Recurrance B_Date I_Date o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o
+june 27th se lekar agle do hafte ke liye football practice reminder banao	B_Time I_Time o o B_Recurrance I_Recurrance I_Recurrance I_Recurrance o B_Catchall_Phrase I_Catchall_Phrase o o
+mujhe har din walnuts khane ke liye remind karvao	o B_Recurrance I_Recurrance o o o o o o
+reminder set karo naam anniversary	o o o o B_Catchall_Phrase
+office pahunchne se pehle bank jaana hai alert lagayein mujhe yaad karvane ke liye	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o o o o
+today there is party bhoolna nahi	B_Day B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o
+mujhe remind karvana shaam 7 baje to call up mausa ji	o o o B_Time I_Time I_Time o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+kripaya ek reminder laga dijiye doodh lekar aane ka	o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+time to wake up naam se ek reminder banao kal subah 6 baje	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o o B_Day B_Time I_Time I_Time
+aaj shaam samsung stores par sale hai mujhe yaad dila dena	B_Time I_Time B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o
+subah uthte hi exercise ke liye remind karvana	B_Time o o B_Catchall_Phrase o o o o
+jaldi se mere liye ek reminder set kijiye 4 baje suresh ko station pe receive karna hai	o o o o o o o o B_Time I_Time o o o o o o o
+aap ek reminder laga dijiye kal dopahar 2 baje ke liye naming it lunch	o o o o o B_Day B_Time I_Time I_Time o o o o B_Catchall_Phrase
+biryani pick up karne ke liye raat 9 baje ka reminder set karo	o o o o o o B_Time I_Time I_Time o o o o
+26 june ka ek reminder lagao jiska naam rakho tarana birthday	B_Time I_Time o o o o o o o B_Catchall_Phrase I_Catchall_Phrase
+to wash clothes bhi ek reminder hona chanhiye	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o o
+half hour mein mujhe uthkar walk karne ko yaad dilayein	B_Time I_Time o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o
+bhoolna nahi mujhe phone charger buy karna hai radio shack se	o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+aaj raat ke liye ek reminder create kijiye	B_Time I_Time o o o o o o
+research on pandemic discussion ka reminder laga do	B_Time I_Time I_Time I_Time o o o o
+remind me kuch der mein walk par jaana hai	o o B_Time I_Time I_Time B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+reminder create karo aur usko naam do kirane ka samaan	o o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+create reminder raat ke khana damandeep ke ghar par	o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+please ek alert set kar do to catch the flight tomorrow	o o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+ek reminder lagao doctor's appointment kal subah 9:30 baje ka	o o o B_Catchall_Phrase I_Catchall_Phrase B_Day B_Time I_Time o o
+mujhe yaad karana to buy groceries	o o o o B_Catchall_Phrase I_Catchall_Phrase
+kal ke liye ek reminder save karo	B_Day o o o o o o
+go to bank namak reminder save kijiye aaj ke liye	o o o o o o o B_Day o o
+mujhe har din walk par jaane ko satark karo	o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o
+plants ko water karna hai esa ek reminder lagao	o o o o o o o o o
+1st march ko annual vacation ka plan karne ke liye yaad dilayiga	B_Date I_Date o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o
+mujhe remind karvana na bhoolna ki next thursday property agent ke saath meeting hai	o o o o o o B_Day I_Day B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+mujhe ek reminder set karna hai	o o o o o o
+mujhe yaad dilana bua ji ko call karne ka	o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+mere liye ek reminder banaoge kya	o o o o o o
+wake up namak ek reminder create karein kal subah 6 baje ke liye	B_Catchall_Phrase I_Catchall_Phrase o o o o o o B_Time I_Time I_Time o o
+kya ek new reminder ban sakta hai	o o o o o o o
+kya ek reminder bana sakte hain	o o o o o o
+kya ek reminder set kia ja sakta hai for me?	o o o o o o o o o o
+put a reminder ki office ke liye printer kharidna hai	o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+mujhe yaad dilana i've to call puja kal ko	o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+reminder create karo office party at 3 pm tomorrow	o o o B_Catchall_Phrase I_Catchall_Phrase o B_Time I_Time B_Day
+cheeku's birthday naam ka ek reminder set karna	B_Catchall_Phrase I_Catchall_Phrase o o o o o o
+ek reminder lagaiye raat ko 10 baje ka to lock the main door before sleeping	o o o B_Time I_Time I_Time I_Time o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+meri list mein milk add karne ka reminder lagao	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o
+kindly reminder set kar do jaldi se jogging jane ka	o o o o o o o B_Catchall_Phrase o o
+set a reminder ki school drop karna hai baccho ko 7 am	o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase B_Time I_Time
+raat ka reminder set karo to empty the trash can before sleeping	B_Time o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+yaad karana on wednesday bill bharne hain	o o o B_Day B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+shop for halloween naam wala reminder create karo to	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o o o
+everyday jogging karne ko remind karna	B_Recurrance B_Catchall_Phrase o o o o
+reminder set kariye	o o o
+mere ko ek reminder banake doge	o o o o o o
+event list karke reminder lagayein	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o
+mujhe remind karvana na bhoolna ki next week meeting hai	o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+har saal on november 2nd roopa ka birthday aata hai yaad kar lo	B_Recurrance I_Recurrance o B_Date I_Date B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o
+main ek reminder banana chahungi	o o o o o
+dinner time ke liye reminder banayein	B_Time I_Time o o o o
+kya ek reminder laga sakte ho farewell party on 7th of jan?	o o o o o o B_Catchall_Phrase I_Catchall_Phrase o B_Date o o
+mujhe reminder create karna hai	o o o o o
+mere kal ke calendar mein har voice call ka reminder save karo	o B_Day o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o
+ballet class ke naam se ek reminder create karna	B_Catchall_Phrase I_Catchall_Phrase o o o o o o o
+agle hafte thursday ko 2 open house ka reminder rakho	B_Recurrance I_Recurrance B_Day o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o
+subah uthte hi yoga session hai yaad karvana	B_Time B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o
+har roz ke liye ek reminder lagao subah 5 baje tommy ko park leke jana hai	B_Recurrance I_Recurrance o o o o o B_Time I_Time I_Time B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+please ek reminder save karo	o o o o o
+mujhe yaad dilana ki kal bachhon ko main pick up kar rahi hun from school	o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+satark karein mujhe kal subah 8 baje college ka exam hai	o o o B_Day B_Time I_Time I_Time B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+aaj shaam ki liye photo ops ka reminder set karo	B_Day B_Time o o B_Catchall_Phrase I_Catchall_Phrase o o o o
+bag pack karne ka reminder raat ke liye banana	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o B_Time o o o
+coffee ko reminders mein shamil karo	B_Catchall_Phrase o o o o o
+could you please set a reminder ki mujhe roz 8 glass pani peena hai	o o o o o o o o B_Recurrance B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+har thursday ko reminder lagao zumba workout ke naam se	B_Recurrance B_Day o o o B_Catchall_Phrase I_Catchall_Phrase o o o
+har saal on twenty sixth july puja ka birthday hai yaad kariyega	B_Recurrance I_Recurrance o B_Date I_Date I_Date B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o
+please reminder set karo zara kal dopahar 2 baje ke liye interview	o o o o o B_Day B_Time I_Time I_Time o o B_Catchall_Phrase
+ek new reminder to lagao	o o o o o
+aaj raat dinner ka reminder create karo	B_Day B_Time B_Catchall_Phrase o o o o
+please mere liye ek reminder lagao kal 9 baje fever ki dawai khani hai	o o o o o o B_Day B_Time I_Time B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+mujhe yaad karvana nahi bhoolna ki agle mahine pura mahina its exam time	o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+jab daftar pahunchun to chhutti ki arzi dene ka remind zaroor karaana	o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o
+tuesday raat ko 9 baje wale serial ke liye 5 minute pehle reminder lagao	B_Day o o o o o o o o B_Time I_Time I_Time o o
+afternoon 3 pm ke liye ek reminder set kariye	B_Time I_Time I_Time o o o o o o
+can you set a reminder mere liye to drink coffee at 8 am everyday?	o o o o o o o o B_Catchall_Phrase I_Catchall_Phrase o B_Time I_Time o
+mujhe yaad karvana this friday at 8 pm puja's housewarming party	o o o o B_Day o B_Time I_Time B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+please mujhe ek reminder set karke do for tomorrow 7 am naming it school time	o o o o o o o o B_Day B_Time I_Time o o B_Catchall_Phrase I_Catchall_Phrase
+ek reminder create karo	o o o o
+meditation class ke baare mein remind karvana	B_Catchall_Phrase I_Catchall_Phrase o o o o o

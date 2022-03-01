@@ -1,0 +1,88 @@
+wifi start kariye	B_Feature/Action o o
+mera do not disturb mode on karke do	o B_Feature/Action I_Feature/Action I_Feature/Action o o o o
+mobile hotspot chalu kariye	B_Feature/Action I_Feature/Action o o
+bluetooth ko suru kijiye	B_Feature/Action o o o
+gps ko chalao	B_Feature/Action o o
+auto sync mode ko off kar do na	B_Feature/Action I_Feature/Action o o o o o o
+ye jo flashlight hai isko on ka	o o B_Feature/Action o o o o
+mera bluetooth on hai kya?	o B_Feature/Action o o o
+blue tooth ko turn on kariye	B_Feature/Action I_Feature/Action o o o o
+do not disturb mode ko ab off kia ja sakta hai	B_Feature/Action I_Feature/Action I_Feature/Action o o o o o o o o
+bluetooth sakriya kar do	B_Feature/Action o o o
+auto sync turant off karo	B_Feature/Action I_Feature/Action o o o
+do not disturb on kar do	B_Feature/Action I_Feature/Action I_Feature/Action o o o
+torch light on kijiye	B_Feature/Action I_Feature/Action o o
+mobile hotspot on karein	B_Feature/Action I_Feature/Action o o
+kripaya flash light to turn on kijiye	o B_Feature/Action I_Feature/Action o o o o
+hey bixby bluetooth on karo	o o B_Feature/Action o o
+please location off karo	o B_Feature/Action o o
+hotspot ko chalaiye please	B_Feature/Action o o o
+abhi power mode ko off karo sakte hai	o B_Feature/Action I_Feature/Action o o o o o
+auto sync on kara ja sakta hai kya?	B_Feature/Action I_Feature/Action o o o o o o
+gps ko on karen	B_Feature/Action o o o
+wifi on kar do please	B_Feature/Action o o o o
+please flashlight ko on kijiye	o B_Feature/Action o o o
+kia mere phone ka location ko on kar sakte hain	o o o o B_Feature/Action o o o o o
+torch light off kar de	B_Feature/Action I_Feature/Action o o o
+flashlight off kar	B_Feature/Action o o
+mere phone par wifi chalu karo	o o o B_Feature/Action o o
+gps turn on karein	B_Feature/Action o o o
+jaldi se blue tooth off karke de mere mobile phone ka	o o B_Feature/Action I_Feature/Action o o o o o o o
+auto sync on kijiye	B_Feature/Action I_Feature/Action o o
+blue light filter on karo	B_Feature/Action I_Feature/Action I_Feature/Action o o
+turn on sync	o o B_Feature/Action
+blue light filter ko on kia jai	B_Feature/Action I_Feature/Action I_Feature/Action o o o o
+bluetooth on karna abhi ke abhi	B_Feature/Action o o o o o
+wifi on kijiye	B_Feature/Action o o
+kya do not disturb mode off kita ja sakta hai?	o B_Feature/Action I_Feature/Action I_Feature/Action o o o o o o
+turn on torch	o o B_Feature/Action
+flight mode ko off kar sakte ho?	B_Feature/Action I_Feature/Action o o o o o
+dark mode on kar mere mobile ka	B_Feature/Action I_Feature/Action o o o o o
+turn on gps	o o B_Feature/Action
+kripaya flight mode ko chalu kijiye	o B_Feature/Action I_Feature/Action o o o
+flash light ko jalaye	B_Feature/Action I_Feature/Action o o
+mujhe bluetooth chahiye	o B_Feature/Action o
+please turn on wi fi	o o o B_Feature/Action I_Feature/Action
+sync mode ko on kiya jai	B_Feature/Action o o o o o
+mujhe phone par bluetooth chala kar do	o o o B_Feature/Action o o o
+power mode ko chalu kariye	B_Feature/Action I_Feature/Action o o o
+sync off kar do	B_Feature/Action o o o
+kya gps ko band kia ja sakta hai?	o B_Feature/Action o o o o o o
+mere phone ka wifi off kar do	o o o B_Feature/Action o o o
+please turn on bt	o o o B_Feature/Action
+location settings ko on kijiye	B_Feature/Action I_Feature/Action o o o
+sync ko on kar dijiye	B_Feature/Action o o o o
+flash on kar do	B_Feature/Action o o o
+wi-fi ko turn on kia jai	B_Feature/Action o o o o o
+please do not disturb mode ko on kijiye	o B_Feature/Action I_Feature/Action I_Feature/Action I_Feature/Action o o o
+kya please tum nfc off kar sakte ho mere phone ka?	o o o B_Feature/Action o o o o o o o
+kya mere cellphone ka bluelight filter on karke de sakte ho?	o o o o B_Feature/Action I_Feature/Action o o o o o
+g p s ki turn on kia jay	B_Feature/Action I_Feature/Action I_Feature/Action o o o o o
+turn on auto sync	o o B_Feature/Action I_Feature/Action
+flight mode ko on kariye	B_Feature/Action I_Feature/Action o o o
+bluetooth off kar do	B_Feature/Action o o o
+sync on kijiye	B_Feature/Action o o
+bluetooth turn on karo	B_Feature/Action o o o
+sync ko off karoge kya?	B_Feature/Action o o o o
+kripaya wi fi ko chalu kiya jai	o B_Feature/Action I_Feature/Action o o o o
+bluetooth ko ab off kar sakte ho	B_Feature/Action o o o o o o
+bixby please gps ko activate karo	o o B_Feature/Action o o o
+kya gps ko chalu karke de sakte ho?	o B_Feature/Action o o o o o o
+bluetooth ko active state mein kar do	B_Feature/Action o o o o o o
+mera bluetooth on kar do	o B_Feature/Action o o o
+do not disturb mode on kia jaye	B_Feature/Action I_Feature/Action I_Feature/Action I_Feature/Action o o o
+flight mode on karo abhi	B_Feature/Action I_Feature/Action o o o
+please mere mobile ka sync on karo	o o o o B_Feature/Action o o
+kia power mode on kar sakte hain	o B_Feature/Action I_Feature/Action o o o o
+mobile phone ka hotspot band kar do	o o o B_Feature/Action o o o
+fatafat auto aync on karo	o o o o o
+g p s settings ko chalu kijiye	B_Feature/Action I_Feature/Action I_Feature/Action I_Feature/Action o o o
+kya power mode on kar sakte ho?	o B_Feature/Action I_Feature/Action o o o o
+please auto sync ko abhi off karo	o B_Feature/Action I_Feature/Action o o o o
+turn on wifi	o o B_Feature/Action
+jaldi se bluetooth chalu karke do	o o B_Feature/Action o o o
+mere phone par bluetooth on karein	o o o B_Feature/Action o o
+zara wifi chalu karna	o B_Feature/Action o o
+kia location on kar sakte hain	o B_Feature/Action o o o o
+mere mobile ke bt ko on kariyo please	o o o B_Feature/Action o o o o
+torch ko on karo	B_Feature/Action o o o

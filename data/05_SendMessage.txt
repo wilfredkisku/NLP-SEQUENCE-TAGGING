@@ -1,0 +1,152 @@
+papa ko message karke bolo ki office se aj jaldi ghar aye	B_Relation o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+mujhe ek message bhejna hai mere bete ko come home for diwali	o o o o o B_Relation I_Relation o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+ek message bhejna hai	o o o o
+sim 2 se message bhejo	B_Component I_Component o o o
+ek message deepak ke cell phone par kariye dinner party cancelled	o o B_Contact_Name o B_Number_Type I_Number_Type o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+mummy ji ko ek reply send karo ki i will come home late tonight	B_Relation I_Relation o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+jaspreet ko message karo	B_Contact_Name o o o
+mere hubby dear ko sms bhejo ki aate hue eggs lekar aaan na bholein	B_Relation I_Relation I_Relation o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+kya tum suresh ko message bhej sakte ho ki wo doodh leta aye mother dairy se?	o o B_Contact_Name o o o o o o o o o o o o o
+deepak ko mera sandesh pahuncha do that i'll not be joing for lunch	B_Contact_Name o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+agra wali maasi ko hello kahiye message dwara	B_Relation I_Relation I_Relation o B_Catchall_Phrase o o o
+dusare wale sim se nana ko heart emoji wala message bhejo	B_Component I_Component I_Component o B_Relation o B_Catchall_Phrase I_Catchall_Phrase o o o
+angad ke liye ek message chhodhiye	B_Contact_Name o o o o o
+sim 2 se group par message choddho ki i can't come	B_Component I_Component o B_Message_Type o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+dhruv ko sms bhejna hai	B_Contact_Name o o o o
+ek message likhiye bhai jaan ko	o o o B_Relation I_Relation o
+send text mere hubby dear ko ki i'm not feeling well pick me up	o o B_Relation I_Relation I_Relation o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+kya ammi ko ek text send kar sakte ho?	o B_Relation o o o o o o o
+sab rishtedaron ko family group par message choddho sorry i cant come for the wedding	o o o B_Relation I_Relation o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+mere hubby ko message bhejo ki main late aaongi	B_Relation I_Relation o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+maa ke liye ek sandesh likho i miss you	B_Relation o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+jyothsna ji ko sms ke through namaste bhejiye	B_Contact_Name I_Contact_Name o o o o B_Catchall_Phrase o
+mere friends group mein message send karo bura na mano holi hai	o B_Relation B_Message_Type o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+papa ki office wali mobile par ek text message vejo ki jaldi ghar aiye	B_Relation o B_Location I_Location B_Number_Type o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+first sim se daljeet ko text karke kaho i've reached theek thaak	B_Component I_Component o B_Contact_Name o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+kya tum puja ko message kar doge ki pick me up by 5:00 pm	o o B_Contact_Name o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+diya ke daftar wale mobile par message bhejna	B_Contact_Name o B_Location I_Location B_Number_Type o o o
+message karke jayesh ko congratulate karte hain	o o B_Contact_Name o B_Catchall_Phrase o o
+vodafone sim wale number se ammi ko smiley emoji wala message send karna	B_Component I_Component o o o B_Contact_Name o B_Catchall_Phrase I_Catchall_Phrase o o o o
+one message send karna please	o o o o o
+ek message bhejo i will be late	o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+ek message aryan ke work number pe karo meeting cancel ho gayi	o o B_Contact_Name o B_Location I_Location o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+mujhe sandesh bhejna hai to my friend	o o o o o B_Relation I_Relation
+send a text  to sanjana ko i can't make it today	o o o o B_Contact_Name o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+please text mausa ji ki saal gira ki suvakamanaiye	o o B_Relation I_Relation o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+ek sandesh likho mere bhatije ko bhejne ke liye	o o o B_Relation I_Relation o o o o
+party venue is changed ye text send kar do sabko group mein	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o o o B_Message_Type o
+jasleen ko second sim se message kariyo	B_Contact_Name o B_Component I_Component o o o
+hamari patni ko text bhejein	B_Relation I_Relation o o o
+angad ko message karke bata do ki dinner party cancel ho gayi	B_Contact_Name o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+message karke deepak ko dhanyavaad karein	o o B_Contact_Name o B_Catchall_Phrase o
+mausi ko text bhejo that i can't come over	B_Relation o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+type a message mere papa ko bhejne ke liye	o o o B_Relation I_Relation o o o o
+ramesh ke office wale number pe ek text send karo	B_Contact_Name o B_Location I_Location I_Location o o o o o
+mera sandesh raju ke office wale number par pohucha do	o o B_Contact_Name o o o o o o o
+ek message bhejiye group mein happy basant panchami	o o o B_Message_Type o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+mami ji ke text ko reply karo	B_Relation I_Relation o o o o o
+kya sunil ke message ka reply bhej sakte ho?	o B_Contact_Name o o o o o o o
+papa ko text karke bata do ki i'll be late	B_Relation o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+ek message bhejo	o o o
+mere doston ko group mein message send karke jagao what's up guyz?	B_Relation I_Relation o B_Message_Type o o o o o o o o
+1st sim se jatin ko text karo	B_Component I_Component o B_Contact_Name o o o
+sheetal tayi ji ko message pahuncha do	B_Contact_Name B_Relation I_Relation o o o o
+mujhe ek sandesh send karna hai school alumini group walon ko	o o o o o o B_Contact_Name I_Contact_Name B_Message_Type o o
+abbu ke mobile par ye paigam likh kar bhejein i'm ok	B_Relation o B_Call_Type o o o o o o B_Catchall_Phrase I_Catchall_Phrase
+ek message draft karo shalini ko likho we will go to shopping tomorrow	o o o o B_Contact_Name o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+deepika puri ke liye ek message chhorh denge	B_Contact_Name I_Contact_Name o o o o o o
+please ek sandesh bhej do meri class teacher ko	o o o o o o B_Relation I_Relation o
+meri wife ko text karo	B_Relation I_Relation o o o
+jaldi se mera paigam junaid tak bhejo coming	o o o o B_Contact_Name o o o
+sasurji ke mobile number pe ek sandesh bhejo	B_Relation o B_Number_Type I_Number_Type o o o o
+abhi ke abhi ek message bhejo	o o o o o o
+meri mumma ko message send karna	B_Relation I_Relation o o o o
+mujhe ek message bhejna hai family group par naye saal ki shubkamnaon ke liye	o o o o o B_Relation B_Message_Type o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+ek naventam message llikh kar bhejein onkar babu	o o o o o o B_Contact_Name I_Contact_Name
+sandeep pattnaik ko likhit sandesh bhejiye	B_Contact_Name I_Contact_Name o o o o
+mera ek message suresh tak pohucha do uske ghar wale number pe	o o o B_Contact_Name o o o o B_Location I_Location I_Location o
+please send message to bhabhi ki sal gira mubarak ho	o o o o B_Relation o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+friend ko message bhe do ki i will be late today	B_Relation o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+abhi tak drafts nahi mile jaldi bhejo ye message send karo nikhil ji ko	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o B_Contact_Name I_Contact_Name o
+message app se ek text bhejo rajdeep ko ki paise leta aiyo	o o o o o o B_Contact_Name o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+ek message abi send karo ki main ghar pe hi hun	o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+ek naya message banakar bhejo	o o o o o
+radhika aunty tak ek sandesh bhijwana tha unke ghar ke number pe	B_Contact_Name B_Relation o o o o o o B_Location I_Location I_Location I_Location
+hamare inko ek naya text message send karo	o o o o o o o o
+maa ke mobile phone par sms bhejo im okay	B_Relation o B_Number_Type o o o o B_Catchall_Phrase I_Catchall_Phrase
+mere papa ko message kar do ki i will be back at 9	o B_Relation o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+mera sandesh bhej do rupi tak uske mobile number pe	o o o o B_Contact_Name o o B_Number_Type I_Number_Type o
+palak paneer ki recepie message mein bhej do	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o
+ek message send karo johhny ko ki wo kal ghar par aa jaye	o o o o B_Contact_Name o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+phupha ji ko text karo ki pranam lijiye ga	o o B_Relation I_Relation I_Relation I_Relation B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+kya tum nitin ko text kar paoge i can't come today	o o B_Contact_Name o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+mere makeup artist ko ek text kar do that am waiting	o B_Contact_Name I_Contact_Name o o o o o o B_Catchall_Phrase I_Catchall_Phrase
+message karke aalia ko birthday party on wednesday invite bhejo	o o B_Contact_Name o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o
+ek likhit sandesh akshay kalra singh ko bhejein	o o o B_Contact_Name I_Contact_Name I_Contact_Name o o
+please mera sandesh bhejo mom ko	o o o o B_Relation o
+sarita ke mobile pe text karo ki wo aj kitty party pe zarur aye	B_Contact_Name o B_Number_Type o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+we're ready to go karke ek message banakar pooja ko bhejo	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o B_Contact_Name o o
+jaldi se abhi ke message bhejo nishant ko	o o o o o o B_Contact_Name o
+text send kar mere brother ko please to bring the basketball home	o o o B_Relation I_Relation o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+pitaji ke liye ek text message choddhein ki main jeet gaya	B_Relation o o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+ek message kariye zara	o o o o
+ek message bhej sakte ho please?	o o o o o o
+meri better half ko ek valentine message bhejo	B_Relation I_Relation I_Relation o o B_Catchall_Phrase o o
+maa ko sandesh bhejo that i'm in college right now	B_Relation o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+ek message bhejo i will be late	o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+kripaya ek sandesh bhejiye mami ji ko	o o o o B_Relation I_Relation o
+meeting has started namak ek sandesh dipak ji ko bhejiye	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o B_Contact_Name I_Contact_Name o o
+mohammed ko ek text send karo jo kahe ramzaan mubarak	B_Contact_Name o o o o o o o B_Catchall_Phrase I_Catchall_Phrase
+tum ek message bhej sakte ho	o o o o o o
+aarav ko message bhejna ki gadi phasi hai traffic mein cant come	B_Contact_Name o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+jitender saho ko sms kar ki bacche ka school event kal hai	B_Contact_Name I_Contact_Name o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+mere liye type a text	o o o o o
+ashish ji ko message karke bata do ki association meeting kal hai	B_Contact_Name I_Contact_Name o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+kaavya ke ghar wale number par message send kar do	B_Contact_Name o B_Location I_Location I_Location o o o o o
+text to papa ki mobile phone recharge kar dia hain	o o B_Relation o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+text mom that i will be late	o B_Relation o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+ek message bhejo rinky ko welcome!	o o o B_Contact_Name o o
+aap ek sandesh send kaiyega	o o o o o
+piu ko ek message send karo that bring two bottles of water	B_Contact_Name o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+sms wife that its raining now	o B_Relation o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+ho sake to ek message send kar do please rajni ko	o o o o o o o o o B_Contact_Name o
+message mr nitin ki aapka kutta hamare garden mein ghum raha hai	o B_Honerific B_Contact_Name o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+arjun ko ek text send karo jo kahe hello arjun	B_Contact_Name o o o o o o o B_Catchall_Phrase I_Catchall_Phrase
+meri wife ko likhit sandesh bhejo	B_Relation I_Relation o o o o
+ek message bhejo jo kahe aaj raat movie confirm karein	o o o o o o o o o o
+bahan ko ek sandesh bejo ki tumhare liye phone order kiya hain	B_Relation o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+please mera text tina ke office wale mobile number pe bhej do	o o o B_Contact_Name o B_Location I_Location B_Number_Type I_Number_Type o o o
+fatafat ek message bhejo appa ko	o o o o B_Relation o
+mere pita ji ke liye ek message send karne ki tayari karo	B_Relation I_Relation I_Relation o o o o o o o o o
+syllabus sheet bhejne ke liye pavan ko message bhejo	o o o o o o o o o
+kya ek text bhej sakte ho meri did ko ki wo apna bag bhul gai hai mere ghar	o o o o o o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+sim 2 ke through message bhejo	B_Component I_Component o o o o
+party is on karke ek message choddh do mere friends group par	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o o o B_Relation B_Message_Type o
+madhu ko sim2 se ping kar do	B_Contact_Name o B_Component o o o o
+kya ek message bhej sakte ho manager ko?	o o o o o o B_Relation o
+meerat wale phupha ji ko hamara namaskaar send kariye text message ke zariye	B_Relation I_Relation I_Relation I_Relation o B_Catchall_Phrase I_Catchall_Phrase o o o o o o
+send text meri biwi ko	o o B_Relation I_Relation o
+mrs jyothsna ko meeting shuru hone ka message send kar do	B_Honerific B_Contact_Name o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o o
+mujhe ek paigam send karna hai	o o o o o o
+please message send karo ki i have a dinner date tonight	o o o o o o o o o o o
+kya mere liye ek message draft kar sakte ho papa ko bhejna hai	o o o o o o o o o B_Relation o o o
+deepak ko sandesh bhejiye i will come in five minutes	B_Contact_Name o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+message bhejo mere best friend ko i'll talk to you tomorrow	o o B_Relation I_Relation I_Relation o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+pranam maa ye text bhejein maa ko through sim 1	B_Catchall_Phrase I_Catchall_Phrase o o o o o o B_Component I_Component
+ek paigam ammi ko send karein unke work number par	o o B_Relation o o o o B_Location I_Location o
+hey buddy ek message bhej sakte ho uncle ko?	o o o o o o o B_Relation o
+mera sandesh madhu tak bhejo coming	o o B_Contact_Name o o B_Catchall_Phrase
+send a message mere pati ko ki lauki le aye bazar se	o o o B_Relation I_Relation o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+jaldi se canara bank ke manager ko account details message karo	o o B_Contact_Name I_Contact_Name I_Contact_Name I_Contact_Name o B_Catchall_Phrase I_Catchall_Phrase o o
+sandesh bhejein junaid ko see you in college	o o B_Contact_Name o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+aarav ke ghar ke number pe message chhorho	B_Contact_Name o B_Location I_Location I_Location o o o
+ek message send kar de group mein saying happy diwali with pataka emoji	o o o o o B_Message_Type o o B_Catchall_Phrase I_Catchall_Phrase o B_Catchall_Phrase I_Catchall_Phrase
+message bhejo raju ko to bring two coconuts	o o B_Contact_Name o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+navya ke liye ek message banao	B_Contact_Name o o o o o
+sim 1 ke through mere bhanje ko likho jaldi aa jao maasi wait kar rahi hai	B_Component I_Component o o B_Relation I_Relation o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+kripaya mera ek sandesh send kar do jaldi se	o o o o o o o o o
+kya ek sandesh bhej sakte ho rehman ko ki biryani khane kal chalenge	o o o o o o B_Contact_Name o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+likhit sandesh send karo	o o o o
+one message bhejo	o o o
+hardik shubhkamnayein bhejiye mami ji ko guddu ke 4th birthday ki	B_Catchall_Phrase I_Catchall_Phrase o B_Relation I_Relation o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase
+meri khala ko fatafat message karo ki wo ghar aa jaye turant	B_Relation I_Relation o o o o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase

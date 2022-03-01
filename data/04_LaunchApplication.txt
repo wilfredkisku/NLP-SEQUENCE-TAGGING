@@ -1,0 +1,158 @@
+please google chrome open karo	o B_App_Name I_App_Name o o
+mera calendar kholo	o B_App_Name o
+mere mobile pe youtube launch karo	o o o B_App_Name o o
+messenger app khol do please	B_App_Name o o o o
+jaldi se book my show wala app kholein	o o o o o o o o
+mere amazon ko open karo	o B_App_Name o o o
+whatsapp launch karo	B_App_Name o o
+myfiles wala app chalu karo	B_App_Name o o o o
+camera ko kholo	B_App_Name o o
+abi mera youtube app chalo karo	o o B_App_Name I_App_Name o o
+mujhe facebook messenger dikhao	o B_App_Name I_App_Name o
+mera facebook app shuru karo	o B_App_Name o o o
+pandora app suru kiya jai	B_App_Name o o o o
+aarogya setu shuru karna	B_App_Name o o o
+kripaya doodle app start kariye	o B_App_Name o o o
+dekhein to twitter par kya aaya hai	o o B_App_Name o o o o
+whatsapp khola jaye	B_App_Name o o
+dekhein kya kya movies aayi hain amazon prime par	o o o o o o B_App_Name I_App_Name o
+kripaya gaana app open karo	o B_App_Name o o o
+wynk music open kar	B_App_Name I_App_Name o o
+kia espn app chalu kar sakte hain	o B_App_Name o o o o o
+cricbuzz chalo karo	B_App_Name o o
+chal facebook khol de	o B_App_Name o o
+youtube check out karo	B_App_Name o o o
+netflix chalu karo please	B_App_Name o o o
+kripaya mera google authenticator app kholiye	o o B_App_Name I_App_Name o o
+pokeman game suru kijiyemujhe neha bhasin ke songs dikhao youtube mein	B_App_Name o o o o o o o o B_App_Name o
+contacts app jara open karo	B_App_Name o o o o
+kripaya dunkin app launch kia jai	o B_App_Name o o o o
+chal paytm account check karte hain	o B_App_Name o o o o
+weather app khol ke dikhaiyo	B_App_Name I_App_Name o o o
+please instagram open karo	o B_App_Name o o
+mere liye facebook start karo	o o B_App_Name o o
+chrome khol ke de	B_App_Name o o o
+fable khol dijye	B_App_Name o o
+google chrome browser chalao	o B_App_Name o o
+gmail kholo	o o
+tum facebook open kar do	o B_App_Name o o o
+mujhe message khol ke de please	o B_App_Name o o o o
+calculator kholein	B_App_Name o
+mujhe calculator chalu karke do	o B_App_Name o o o
+please maps chala ke do	o B_App_Name o o o
+hotstar to kholo	B_App_Name o o
+settings app kho khol do please	B_App_Name o o o o o
+netflix par jao quickly	B_App_Name o o o
+watsapp open karne me madad karo	B_App_Name o o o o o
+chalu karo netflix ko	o o B_App_Name o
+google duo open karein	B_App_Name o o o
+hi bixby mera google maps open karo	o o o B_App_Name I_App_Name o o
+calendar dikhao	B_App_Name o
+mujhe youtube open karke do	o B_App_Name o o o
+jara message app dikhao	o B_App_Name I_App_Name o
+turant phone app khol dijiye	o B_App_Name I_App_Name o o
+spotify open karne me madad karo please	B_App_Name o o o o o o
+kripaya twitter app launch karo	o B_App_Name o o o
+netflix kholo	B_App_Name o
+buzz video app ko kholo	B_App_Name I_App_Name o o o
+reminder set karne ke liye app launch karo	B_App_Name o o o o o o o
+open karna calander app mera	o o o o o
+jara twitter messages open karo	o B_App_Name o o o
+abhi snapchat open karo	o B_App_Name o o
+open pandora	o B_App_Name
+abhi ke abhi spotify open karo	o o o B_App_Name o o
+mujhe bhagvad gita khol kar do	o B_App_Name I_App_Name o o o
+chalo snapchat par khelte hain	o B_App_Name o o o
+kripaya dominos app chalu karen	o B_App_Name o o o
+mujhe memo banana hai kidhar likhun	o o o o o o
+facebook khol do	B_App_Name o o
+kripya messages app kholiye	o o o o
+facebook ko split view mein kholo	B_App_Name o B_Feature/Action I_Feature/Action o o
+mujhe ola cab book karni hai khol do	o B_App_Name o o o o o o
+amazon shopping ko khol dein	B_App_Name I_App_Name o o o
+gallery dhikado mujhe	B_App_Name o o
+message app open karona please	B_App_Name I_App_Name o o o
+please ebay app kholo abhi ke abhi	o B_App_Name I_App_Name o o o o
+facebook open karo	B_App_Name o o
+let's see something youtube mein	o o o B_App_Name o
+abhi mera contacts app open karo	o o B_App_Name I_App_Name o o
+please start ebay app	o o B_App_Name o
+insta open karke batao	B_App_Name o o o
+jaldi se twitter app open karo	o o B_App_Name o o o
+tum zara instagram khol sakte ho?	o o B_App_Name o o o
+kya mera calendar app shuru kar sakte ho?	o o B_App_Name I_App_Name o o o o
+mere phone par calculator ko kholein	o o o B_App_Name o o
+please mera adobe scanner khol do	o o B_App_Name I_App_Name o o
+madad karo facebook kholne mein	o o B_App_Name o o
+chrome app suru karo	B_App_Name o o o
+mujhe meri photos khol kar do	o o B_App_Name o o o
+snapchat app check karna hai mujhe	B_App_Name I_App_Name o o o o
+selfie lene ke liye camera open karo	o o o o B_App_Name o o
+swiggy khol zara	B_App_Name o o
+jhara skype open karo	o B_App_Name o o
+gmail dikhao please	B_App_Name o o
+netflix kholo abhi	B_App_Name o o
+twitter app ko open karne me madad karo	B_App_Name o o o o o o o
+playstore open karo download karna hai ek app	B_App_Name o o o o o o o
+message app shuru karo	B_App_Name I_App_Name o o
+mujhe latest emails dikhao on gmail	o B_Feature/Action I_Feature/Action o o B_App_Name
+prime open kijiye	B_App_Name o o
+are yaar netflix khol na	o o B_App_Name o o
+youtube app chalana	B_App_Name I_App_Name o
+ola application kholo	B_App_Name o o
+amazon shuru karo	B_App_Name o o
+gaana music app krupiya open karo	B_App_Name I_App_Name o o o o
+kya mera mail khol ke dikha sakte ho?	o o B_App_Name o o o o o
+mujhe jaldi se uber khol ke do	o o o B_App_Name o o o
+mujhe whatsapp launch karke do	o B_App_Name o o o
+launch karo meri gallery ko	o o o B_App_Name o
+launch karo mere settings app ko	o o o B_App_Name o o
+ajio ka app kholiyo zara	B_App_Name o o o o
+mujhe game launcher check out karna hai	o B_App_Name I_App_Name o o o o
+contact app chalu karo	o o o o
+netflix start karo	B_App_Name o o
+samsung internet chalao to zara	B_App_Name I_App_Name o o o
+youtube music khol do	B_App_Name I_App_Name o o
+chalo samsung themes check out karte hain	o B_App_Name I_App_Name o o o o
+please citibank ka app chalu kar na	o B_App_Name o o o o o
+contacts open karo please	B_App_Name o o o
+are zomato chalu kar na please	o B_App_Name o o o o
+amazon app launch karo	B_App_Name o o o
+youtube chalao	B_App_Name o
+jaldi se spotify shuru karo	o o B_App_Name o o
+google pay app dikhaiye	B_App_Name I_App_Name o o
+phone app khol ke dikhao	B_App_Name I_App_Name o o o
+airtel app kholo zara	B_App_Name I_App_Name o o
+hey buddy mera contacts app kholo	o o o B_App_Name o o
+samsung pay mini app ko khol dena	B_App_Name I_App_Name I_App_Name o o o o
+camscanner chalu karo please	B_App_Name o o o
+kripya gallery launch karo	o B_App_Name o o
+gmail khol ke check karna please	B_App_Name o o o o o
+please instagram ko chalu karo	o B_App_Name o o o
+please launch facebook	o o B_App_Name
+watsapp saamne lao	B_App_Name o o
+facebook ko launch karo	B_App_Name o o o
+pinterest par kya latest hai	B_App_Name o o o o
+open camera na yaar	o B_App_Name o o
+teams app chalu karke de	B_App_Name I_App_Name o o o
+excel launch kijiye	B_App_Name o o
+lets play snapchat par	o o B_App_Name o
+phataphat camera open karo	o B_App_Name o o
+launch karo flipkart app	o o B_App_Name o
+kya mera google pay app chala sakte ho?	o o B_App_Name I_App_Name I_App_Name o o o
+caller name id ko kholo	B_App_Name I_App_Name I_App_Name o o
+angry bird game chalu karo	B_App_Name I_App_Name o o o
+zara amazon prime kholo	o B_App_Name I_App_Name o
+facebook app ko kholna	B_App_Name o o o
+twitter ko open karne me krupiya help karo	B_App_Name o o o o o o o
+mujhe clock app check karna hai	o B_App_Name I_App_Name o o o
+kya mera google playstore khol sakoge abhi?	o o B_App_Name I_App_Name o o o
+smartswitch app ko shuru kijiye	B_App_Name o o o o
+facebook ko phataphat launch karo	B_App_Name o o o o
+youtube launch karna please	B_App_Name o o o
+bixby jara youtube chalu karo	o o B_App_Name o o
+zara ka app open karo	B_App_Name o o o o
+turant skype launch kardo	o B_App_Name o o
+please open ebay app	o o B_App_Name o
+chalo pinterest check out karte hain	o B_App_Name o o o o
+kya tum youtube videos khol sakte ho	o o B_App_Name I_App_Name o o o

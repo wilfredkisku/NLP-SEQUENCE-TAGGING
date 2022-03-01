@@ -1,0 +1,100 @@
+15 minute ke liye timer set kariye for aerobics exercise	B_Time I_Time o o o o o o B_Catchall_Phrase I_Catchall_Phrase
+pasta timer lagao 2 minute wala	B_Catchall_Phrase o o B_Time I_Time o
+ek timer start karo abhi ke abhi	o o o o o o o
+biryani pakne ke liye set 10 min timer	B_Catchall_Phrase I_Catchall_Phrase o o o B_Time I_Time o
+please ek 55 minute ka timer suru kariye	o o B_Time I_Time o o o o
+dog walk timer chalao	B_Catchall_Phrase I_Catchall_Phrase o o
+timer set karo	o o o
+bis minute k liye ek count down timer start karen	B_Time I_Time o o o o o o o o
+mujhe 5 minute ka yoga routine timer start karke do	o B_Time I_Time o B_Catchall_Phrase I_Catchall_Phrase o o o o
+10 minutes ka timer shuru kijiye for meditation	o o o o o o o B_Catchall_Phrase
+lego timer shuru kijiye	B_Catchall_Phrase o o o
+cycling ka timer shuro karna	B_Catchall_Phrase o o o o
+please mera timer chala do jumping jacks ke liye	o o o o o B_Catchall_Phrase I_Catchall_Phrase o o
+cake oven me bake hone ke liye set timer for 40 minutes	o o o o o o o o o o B_Time I_Time
+mujhe aath minute wala meditation timer start karna hai	o B_Time I_Time o B_Catchall_Phrase o o o o
+bharta timer start kar do	B_Catchall_Phrase o o o o
+5 minute ke liye pulao pakne ka timer set karo	B_Time I_Time o o B_Catchall_Phrase I_Catchall_Phrase o o o o
+abi exercise karne ka timer set kijiye	o B_Catchall_Phrase o o o o o
+kripaya 10 minutes ka plank timer start kare	o B_Time I_Time o B_Catchall_Phrase o o o
+kya tum ek minute ke liye milk drink timer laga sakte ho	o o B_Time I_Time o o B_Catchall_Phrase I_Catchall_Phrase o o o o
+timer lagao 1 minute wala for the sit ups	o o B_Time I_Time o o o B_Catchall_Phrase I_Catchall_Phrase
+kripaya 10 minute ka timer chalu karen	o B_Time I_Time o o o o
+2 minute wala timer lagao for planks	B_Time I_Time o o o o B_Catchall_Phrase
+ek 10 seconds ka timer shuru kijiye	o B_Time I_Time o o o o
+5 minute ke liye fried rice pakne ka timer set kijiye	B_Time I_Time o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o
+create timer mere liye cooking rice naam wala	o o o o B_Catchall_Phrase I_Catchall_Phrase o o
+bhindi pakne ke liye 10 minutes ka timer set karo	B_Catchall_Phrase I_Catchall_Phrase o o B_Time I_Time o o o o
+rajma pakne ke liye 15 minute ka timer lagao	B_Catchall_Phrase I_Catchall_Phrase o o B_Time I_Time o o o
+excersize k liye ek 30 minute ka timer start kijiye please	B_Catchall_Phrase o o o B_Time I_Time o o o o o
+ek traffic jam ka timer lagao	o B_Catchall_Phrase I_Catchall_Phrase o o o
+adhe ghante ka ek ghari chalu kijiye	B_Time I_Time o o o o o
+kripaya ek 30 minutes ka count down timer start karo	o o B_Time I_Time o o o o o o
+15 minutes wala timer on karo	B_Time I_Time o o o o
+ek 5 minute wala count down ghari chalu karo	o B_Time I_Time o o o o o o
+kripaya 20 minute wala timer set karo	o B_Time I_Time o o o o
+16 minutes ka ulti ginti karne wale ghari suru karein	B_Time I_Time o o o o o o o o
+fatafat ek timer to lagaiye zara	o o o o o o
+kindly hiit ke naam se set a timer	o B_Catchall_Phrase o o o o o o
+adhe ghante ka timer on	B_Time I_Time o o o
+biryani pakane ke liye set 10 min timer	B_Catchall_Phrase I_Catchall_Phrase o o o B_Time I_Time o
+2 minute wala timer start kar do for jumping	B_Time I_Time o o o o o o B_Catchall_Phrase
+start a timer for 1 hour for walking	o o o o B_Time I_Time o B_Catchall_Phrase
+5 minute ke liye pulao pakne ka timer set kijiye	B_Time I_Time o o B_Catchall_Phrase I_Catchall_Phrase o o o o
+pani puri timer chalao for exact 10 minutes	B_Catchall_Phrase I_Catchall_Phrase o o o o B_Time I_Time
+start timer mere liye for 30 minutes recess naam se	o o o o o B_Time I_Time B_Catchall_Phrase o o
+12 minute ka ginti karne wale ghari chalu karen	B_Time I_Time o o o o o o o
+5 minute ke liye timer set karo	o o o o o o o
+workout wala timer shuru kariye	B_Catchall_Phrase o o o o
+maggie ka timer lagao 2 minutes ka	B_Catchall_Phrase o o o o o o
+gobhi ki sabji  timer shuru karo	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o
+ek timer to lagao padhai ka	o o o o B_Catchall_Phrase I_Catchall_Phrase
+mindspark timer chalo kar do	B_Catchall_Phrase o o o o
+11 minutes ka ek timer lagaou anda banane k liye	B_Time I_Time o o o o B_Catchall_Phrase I_Catchall_Phrase o o
+timer lagana zara plank naam wala	o o o B_Catchall_Phrase o o
+pulav pakne ke liye set timer for 2 minutes	B_Catchall_Phrase I_Catchall_Phrase o o o o o B_Time I_Time
+mutton korma pakne ke liye timer start kar do for 10 mins	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o o o o o B_Time I_Time
+2 ghanta 20 minute ka timer chalu kijiye	B_Time I_Time I_Time I_Time o o o o
+relay race ke liye turant ek timer shuro kijiye	B_Catchall_Phrase I_Catchall_Phrase o o o o o o o
+yaar ek timer laga zara	o o o o o
+1 hour 30 minutes ka ek timer start karo	B_Time I_Time I_Time I_Time o o o o o
+das minute k liye count down timer suru karein	B_Time I_Time o o o o o o o
+pakode pakane ka timer shuro karo just now	B_Catchall_Phrase I_Catchall_Phrase o o o o o o
+timer laga 18 minute ka for the push ups	o o B_Time I_Time o o o B_Catchall_Phrase I_Catchall_Phrase
+5 minute ke liye timer set kariye	B_Time I_Time o o o o o
+back flips karne ka timer shuru karo	B_Catchall_Phrase I_Catchall_Phrase o o o o o
+rubic cube timer shuro karna	B_Catchall_Phrase I_Catchall_Phrase o o o
+sanjeev kapoor khana khazana 10 minute wala time on karo	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase B_Time I_Time o o o o
+pandhra minute k liye timer chalu karo	B_Time I_Time o o o o o
+noodles timer shuro karo right now	B_Catchall_Phrase o o o o o
+jogging naam ka timer laga abi	B_Catchall_Phrase o o o o o
+ek timer to lagao	o o o o
+ek 5 minute ka leg rise timer set kijiye	o B_Time I_Time o B_Catchall_Phrase I_Catchall_Phrase o o o
+mere liye ek timer set karke do named webex call	o o o o o o o o B_Catchall_Phrase I_Catchall_Phrase
+chaliye abhi timer shuru kijiye 40 seconds ke liye	o o o o o B_Time I_Time o o
+timer chalo 1 minute wala for the sit ups	o o B_Time I_Time o o o B_Catchall_Phrase I_Catchall_Phrase
+mere ko ek timer chahiye named cake	o o o o o o B_Catchall_Phrase
+bhurji timer shuro karo right now	B_Catchall_Phrase o o o o o
+10 minute ke liye aalu ubalne ka timer start karein	B_Time I_Time o o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o o
+quiz ke liye timer chalo kar do	B_Catchall_Phrase o o o o o o
+ek dinner with friends timer lagao	o B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o
+2 minute ka timer shuru karo for lunges	B_Time I_Time o o o o o B_Catchall_Phrase
+puzzle wala timer shuru kar do	B_Catchall_Phrase I_Catchall_Phrase o o o o
+quickly timer start karo 2 minute ka	o o o o B_Time I_Time o
+timer shuru kariye please 12 minute ka kheer pakane ka	o o o o B_Time I_Time o B_Catchall_Phrase I_Catchall_Phrase o
+please start a 5 minutes timer	o o o B_Time I_Time o
+mere liye ek minute ka timer lagao	o o B_Time I_Time o o o
+meri usual nap ka timer laga do	o o B_Catchall_Phrase o o o o
+sau ghanton ke liye timer start kar do	B_Time I_Time o o o o o o
+sathara minute ka count down ghari chalu karo	B_Time I_Time o o o o o o
+mere liye ek timer laga kar do named dance	o o o o o o o o B_Catchall_Phrase
+kya tum ek minute ke liye drink beer ka timer laga sakte ho	o o B_Time I_Time o o B_Catchall_Phrase I_Catchall_Phrase o o o o o
+30 seconds ka ek timer start karo	B_Time I_Time o o o o o
+pizza timer lagao 2 mintue ke liye	B_Catchall_Phrase o o o o o o
+raj kachori pakane ke liye 10 minute ka timer start kariye turant	B_Catchall_Phrase I_Catchall_Phrase I_Catchall_Phrase o o B_Time I_Time o o o o o
+12 minutes wala meditation timer start karde	B_Time I_Time o o o o o
+13 seconds ke liye timer set karo please	B_Time I_Time o o o o o o
+dumplings timer shuro karo quickly	B_Catchall_Phrase o o o o
+please ek timer set kar do abhi ke abhi presentation naam se	o o o o o o o o o B_Catchall_Phrase o o
+jaldi se 20 minutes ka timer suru karein	o o B_Time I_Time o o o o
+ek timer set karke de mujhe running ke naam se	o o o o o o B_Catchall_Phrase o o o
